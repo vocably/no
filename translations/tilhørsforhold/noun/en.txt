@@ -1,0 +1,4 @@
+affiliation
+relationship
+connection
+association

@@ -1,0 +1,4 @@
+canta
+está cantando
+cantan
+están cantando

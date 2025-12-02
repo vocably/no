@@ -1,0 +1,5 @@
+habitación
+espacio
+cuarto
+sala
+cámara

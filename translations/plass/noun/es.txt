@@ -1,0 +1,5 @@
+lugar
+sitio
+espacio
+puesto
+posición

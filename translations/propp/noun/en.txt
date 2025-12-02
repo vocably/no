@@ -1,0 +1,4 @@
+plug
+stopper
+fuse
+clot

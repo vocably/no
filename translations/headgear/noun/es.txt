@@ -1,0 +1,4 @@
+sombrero
+casco
+gorro
+tocados

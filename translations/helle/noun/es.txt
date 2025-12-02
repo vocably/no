@@ -1,0 +1,3 @@
+piedra
+losa
+azulejo

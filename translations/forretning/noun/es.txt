@@ -1,0 +1,4 @@
+negocio
+empresa
+comercio
+tienda

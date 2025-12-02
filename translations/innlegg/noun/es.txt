@@ -1,0 +1,4 @@
+entrada
+artículo
+comentario
+contribución

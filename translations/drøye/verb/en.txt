@@ -1,0 +1,4 @@
+delay
+prolong
+linger
+extend

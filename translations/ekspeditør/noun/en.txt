@@ -1,0 +1,4 @@
+clerk
+salesperson
+shop assistant
+sales clerk

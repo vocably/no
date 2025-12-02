@@ -1,0 +1,4 @@
+rollo
+cilindro
+bobina
+carrete

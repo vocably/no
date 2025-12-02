@@ -1,0 +1,4 @@
+position
+stance
+standpoint
+attitude

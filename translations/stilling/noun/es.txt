@@ -1,0 +1,5 @@
+posición
+empleo
+puesto
+situación
+estado

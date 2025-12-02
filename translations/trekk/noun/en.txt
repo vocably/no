@@ -1,0 +1,6 @@
+pull
+draft
+feature
+trait
+deduction
+move

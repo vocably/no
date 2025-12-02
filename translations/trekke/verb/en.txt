@@ -1,0 +1,6 @@
+pull
+draw
+withdraw
+attract
+deduct
+extract

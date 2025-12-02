@@ -1,0 +1,4 @@
+sala
+salón
+cuarto de estar
+living

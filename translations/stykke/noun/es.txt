@@ -1,0 +1,5 @@
+pieza
+trozo
+obra
+fragmento
+parte
