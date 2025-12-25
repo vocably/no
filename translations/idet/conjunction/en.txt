@@ -1,0 +1,3 @@
+as
+when
+while

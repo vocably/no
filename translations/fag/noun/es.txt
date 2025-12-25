@@ -1,0 +1,8 @@
+asignatura
+materia
+profesión
+oficio
+disciplina
+área de estudio
+especialidad
+conocimiento especializado

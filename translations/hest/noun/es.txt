@@ -1,0 +1,5 @@
+caballo
+corcel
+jamelgo
+potro
+yegua

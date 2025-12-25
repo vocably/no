@@ -1,0 +1,4 @@
+estudiante
+alumno
+aprendiz
+discípulo

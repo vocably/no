@@ -1,0 +1,6 @@
+go
+walk
+leave
+pass
+run
+work

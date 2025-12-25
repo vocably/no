@@ -1,0 +1,4 @@
+skin
+hide
+peel
+rind

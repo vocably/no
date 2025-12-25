@@ -1,0 +1,5 @@
+warning
+notice
+alert
+sign
+signal

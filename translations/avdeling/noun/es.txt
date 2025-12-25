@@ -1,0 +1,4 @@
+departamento
+sección
+unidad
+división

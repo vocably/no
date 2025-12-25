@@ -1,0 +1,4 @@
+parte médico
+informe médico
+certificado médico
+justificante médico

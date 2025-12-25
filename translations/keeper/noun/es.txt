@@ -1,0 +1,5 @@
+guardián
+portero
+conserje
+propietario
+encargado

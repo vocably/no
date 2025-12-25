@@ -1,0 +1,8 @@
+way
+kind
+sort
+type
+nature
+character
+form
+species

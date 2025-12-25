@@ -1,0 +1,4 @@
+diario
+cuaderno de bitácora
+libro de bitácora
+agenda

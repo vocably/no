@@ -1,0 +1,6 @@
+robber
+thief
+bandit
+rascal
+scoundrel
+rogue

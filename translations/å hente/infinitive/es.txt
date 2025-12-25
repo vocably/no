@@ -1,0 +1,6 @@
+recoger
+obtener
+ir a buscar
+traer
+recuperar
+buscar

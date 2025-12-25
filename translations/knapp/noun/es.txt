@@ -1,0 +1,4 @@
+botón
+pulsador
+chapa
+insignia

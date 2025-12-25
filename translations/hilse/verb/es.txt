@@ -1,0 +1,4 @@
+saludar
+saludar a alguien
+intercambiar saludos
+reconocer la presencia de alguien

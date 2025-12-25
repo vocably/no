@@ -1,0 +1,7 @@
+plato
+fuente
+bandeja
+disco
+lámina
+plancha
+placa

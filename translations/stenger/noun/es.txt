@@ -1,0 +1,5 @@
+barras
+postigos
+vallas
+cierres
+verjas

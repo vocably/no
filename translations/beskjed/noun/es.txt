@@ -1,0 +1,10 @@
+mensaje
+noticia
+información
+orden
+instrucción
+aviso
+comunicación
+recado
+dato
+directriz

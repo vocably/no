@@ -1,0 +1,9 @@
+tutor
+asesor
+guía
+orientador
+manual
+mentor
+instructor
+consultor
+directriz

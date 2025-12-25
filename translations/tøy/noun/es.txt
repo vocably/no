@@ -1,0 +1,9 @@
+tela
+ropa
+tejido
+material
+indumentaria
+vestimenta
+equipo
+instrumentos
+herramientas

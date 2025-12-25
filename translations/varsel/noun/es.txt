@@ -1,0 +1,5 @@
+advertencia
+aviso
+señal
+notificación
+alerta

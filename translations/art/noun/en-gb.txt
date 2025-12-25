@@ -1,0 +1,5 @@
+art
+skill
+craft
+discipline
+humanities

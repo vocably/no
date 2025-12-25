@@ -1,0 +1,3 @@
+grado
+grado Celsius
+grado de temperatura

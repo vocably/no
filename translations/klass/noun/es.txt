@@ -1,0 +1,7 @@
+clase
+aula
+categoría
+tipo
+estrato
+promoción
+grado

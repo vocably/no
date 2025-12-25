@@ -1,0 +1,4 @@
+caja
+lata
+bote
+buzón

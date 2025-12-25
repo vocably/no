@@ -1,0 +1,4 @@
+disparar
+lanzar
+matar
+tirar

@@ -1,0 +1,5 @@
+admission
+acceptance
+enrollment
+recording
+capture

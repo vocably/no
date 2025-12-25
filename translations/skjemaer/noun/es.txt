@@ -1,0 +1,6 @@
+formularios
+esquemas
+estructuras
+patrones
+tablas
+diseños

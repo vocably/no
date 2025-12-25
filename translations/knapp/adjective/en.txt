@@ -1,0 +1,4 @@
+scarce
+tight
+concise
+bare

@@ -1,0 +1,5 @@
+carga
+peso
+viento
+brisa
+fardo

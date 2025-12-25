@@ -1,0 +1,6 @@
+string
+cord
+line
+fishing line
+shoelace
+lace

@@ -1,0 +1,4 @@
+cuadrado
+plaza
+recuadro
+manzana

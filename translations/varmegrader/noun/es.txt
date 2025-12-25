@@ -1,0 +1,4 @@
+grados centígrados
+grados de calor
+temperaturas positivas
+temperaturas sobre cero

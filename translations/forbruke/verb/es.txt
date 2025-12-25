@@ -1,0 +1,6 @@
+consumir
+gastar
+agotar
+desgastar
+emplear
+utilizar

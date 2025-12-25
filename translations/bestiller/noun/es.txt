@@ -1,0 +1,5 @@
+cliente
+el que hace un pedido
+el que encarga algo
+comitente
+ordenante

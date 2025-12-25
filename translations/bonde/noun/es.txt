@@ -1,0 +1,4 @@
+campesino
+agricultor
+granjero
+peón

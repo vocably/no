@@ -1,0 +1,5 @@
+spot
+stain
+smudge
+blot
+patch

@@ -1,0 +1,9 @@
+serio
+grave
+crítico
+importante
+severo
+trascendental
+formal
+preocupante
+delicado

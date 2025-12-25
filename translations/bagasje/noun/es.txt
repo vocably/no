@@ -1,0 +1,4 @@
+equipaje
+carga
+bagaje
+lastre

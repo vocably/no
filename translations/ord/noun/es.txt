@@ -1,0 +1,9 @@
+palabra
+término
+vocablo
+expresión
+declaración
+afirmación
+mensaje
+noticia
+recado

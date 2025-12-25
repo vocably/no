@@ -1,0 +1,4 @@
+dimensiones
+aspectos
+facetas
+lados

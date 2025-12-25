@@ -1,0 +1,9 @@
+vez
+pasillo
+marcha
+banda
+ocasión
+corredor
+pandilla
+andén
+paso

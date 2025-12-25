@@ -1,0 +1,5 @@
+stir
+touch
+move
+mix
+affect

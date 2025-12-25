@@ -1,0 +1,6 @@
+curso
+dirección
+tasa
+rumbo
+cotización
+tratamiento

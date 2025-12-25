@@ -1,0 +1,8 @@
+carácter
+personaje
+nota
+símbolo
+signo
+letra
+calificación
+puntuación

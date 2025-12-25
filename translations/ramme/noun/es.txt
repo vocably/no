@@ -1,0 +1,10 @@
+marco
+estructura
+entorno
+cuadro
+armazón
+ámbito
+contexto
+bastidor
+montura
+cerco

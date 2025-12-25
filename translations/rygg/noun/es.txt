@@ -1,0 +1,8 @@
+espalda
+lomo
+dorso
+reverso
+canto
+cresta
+cordillera
+lomo del libro

@@ -1,0 +1,4 @@
+oficinista
+administrativo
+empleado de oficina
+auxiliar administrativo

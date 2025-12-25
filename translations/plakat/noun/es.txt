@@ -1,0 +1,4 @@
+cartel
+póster
+afiche
+placard

@@ -1,0 +1,4 @@
+unsuccessful
+failed
+abortive
+miscarried

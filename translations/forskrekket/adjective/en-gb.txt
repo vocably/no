@@ -1,0 +1,8 @@
+frightened
+scared
+alarmed
+startled
+shocked
+appalled
+horrified
+dismayed

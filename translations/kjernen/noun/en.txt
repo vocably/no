@@ -1,0 +1,4 @@
+core
+kernel
+nucleus
+essence

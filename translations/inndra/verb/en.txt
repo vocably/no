@@ -1,0 +1,4 @@
+confiscate
+revoke
+withdraw
+seize

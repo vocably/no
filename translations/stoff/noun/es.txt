@@ -1,0 +1,9 @@
+material
+sustancia
+tejido
+tela
+tema
+asunto
+materia
+género
+cuestión

@@ -1,0 +1,4 @@
+consumido
+agotado
+utilizado
+aplicado

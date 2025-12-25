@@ -1,0 +1,4 @@
+centro
+medio
+mitad
+zona central

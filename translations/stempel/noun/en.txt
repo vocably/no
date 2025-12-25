@@ -1,0 +1,6 @@
+stamp
+piston
+mark
+seal
+imprint
+characteristic

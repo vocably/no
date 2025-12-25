@@ -1,0 +1,5 @@
+escrutador
+contador
+cajero
+mostrador
+urna

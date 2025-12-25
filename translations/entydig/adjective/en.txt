@@ -1,0 +1,5 @@
+unambiguous
+unequivocal
+clear
+explicit
+single-valued

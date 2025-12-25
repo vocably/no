@@ -1,0 +1,4 @@
+código
+clave
+norma
+regla

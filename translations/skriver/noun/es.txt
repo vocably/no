@@ -1,0 +1,6 @@
+escritor
+autor
+redactor
+impresora
+copista
+amanuense

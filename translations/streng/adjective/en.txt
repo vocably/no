@@ -1,0 +1,4 @@
+strict
+severe
+stern
+rigorous

@@ -1,0 +1,5 @@
+sonido
+ruido
+audio
+tono
+voz

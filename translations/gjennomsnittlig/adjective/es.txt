@@ -1,0 +1,6 @@
+promedio
+normal
+medio
+estándar
+mediocre
+regular

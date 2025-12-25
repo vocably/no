@@ -1,0 +1,5 @@
+agudo
+urgente
+crítico
+apremiante
+grave

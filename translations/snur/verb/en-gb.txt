@@ -1,0 +1,6 @@
+turns
+changes direction
+returns
+spins
+revolves
+swings round

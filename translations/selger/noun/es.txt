@@ -1,0 +1,4 @@
+vendedor
+comerciante
+agente de ventas
+representante de ventas

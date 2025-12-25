@@ -1,0 +1,7 @@
+línea
+cola
+cuerda
+raya
+arruga
+mensaje
+nota

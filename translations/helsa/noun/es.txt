@@ -1,0 +1,4 @@
+salud
+estado de salud
+bienestar
+saludo

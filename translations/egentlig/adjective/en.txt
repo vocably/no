@@ -1,0 +1,6 @@
+real
+actual
+true
+original
+fundamental
+essential

@@ -1,0 +1,4 @@
+contar
+numerar
+importar
+valer

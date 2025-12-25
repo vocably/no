@@ -1,0 +1,5 @@
+mochila
+saco
+bolsa
+macuto
+petate

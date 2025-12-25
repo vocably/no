@@ -1,0 +1,8 @@
+registrar
+cachear
+registrar a alguien
+cachear a alguien
+registrar por armas
+cachear por armas
+reanimar
+refrescar

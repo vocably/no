@@ -1,0 +1,5 @@
+apagar
+desconectar
+rebajar
+interrumpir
+matar

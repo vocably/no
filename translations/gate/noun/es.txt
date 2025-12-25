@@ -1,0 +1,4 @@
+calle
+pasaje
+puerta
+entrada

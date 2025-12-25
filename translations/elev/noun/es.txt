@@ -1,0 +1,4 @@
+alumno
+estudiante
+aprendiz
+escolar

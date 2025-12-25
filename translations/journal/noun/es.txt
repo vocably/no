@@ -1,0 +1,4 @@
+diario
+revista
+cuaderno de bitácora
+libro mayor

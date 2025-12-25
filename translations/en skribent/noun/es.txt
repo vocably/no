@@ -1,0 +1,5 @@
+escritor
+redactor
+periodista
+autor
+amanuense

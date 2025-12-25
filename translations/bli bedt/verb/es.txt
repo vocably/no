@@ -1,0 +1,4 @@
+ser pedido
+ser solicitado
+ser invitado
+ser rogado

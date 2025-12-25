@@ -1,0 +1,4 @@
+colorante
+color
+tinte
+matiz

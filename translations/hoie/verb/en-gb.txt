@@ -1,0 +1,5 @@
+shout
+cheer
+holler
+whoop
+yell

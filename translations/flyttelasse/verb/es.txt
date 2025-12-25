@@ -1,0 +1,5 @@
+trasladar
+mover
+reubicar
+desplazar
+cambiar de sitio

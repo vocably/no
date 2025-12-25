@@ -1,0 +1,4 @@
+número
+cifra
+cálculo
+cuenta

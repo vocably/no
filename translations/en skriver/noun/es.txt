@@ -1,0 +1,4 @@
+escritor
+impresora
+autor
+máquina de escribir

@@ -1,0 +1,5 @@
+participante
+miembro
+concursante
+asistente
+integrante

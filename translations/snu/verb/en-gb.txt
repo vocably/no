@@ -1,0 +1,6 @@
+turn
+rotate
+reverse
+spin
+swivel
+pivot

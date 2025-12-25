@@ -1,0 +1,4 @@
+engine failure
+engine stall
+engine stoppage
+motor stop

@@ -1,0 +1,6 @@
+escritor
+redactor
+autor
+periodista
+articulista
+novelista

@@ -1,0 +1,6 @@
+nombre
+sustantivo
+reputación
+fama
+vocablo
+término

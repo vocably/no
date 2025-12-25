@@ -1,0 +1,4 @@
+dimensión
+aspecto
+envergadura
+alcance

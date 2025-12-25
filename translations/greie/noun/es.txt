@@ -1,0 +1,5 @@
+habilidad
+capacidad
+destreza
+asunto
+cosa

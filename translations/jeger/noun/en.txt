@@ -1,0 +1,6 @@
+hunter
+jager
+rifleman
+ranger
+whaler
+sealer
