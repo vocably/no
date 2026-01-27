@@ -1,0 +1,4 @@
+advertencia
+aviso
+precaución
+alarma

@@ -1,0 +1,3 @@
+frase
+oración
+sentencia

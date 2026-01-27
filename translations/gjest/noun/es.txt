@@ -1,0 +1,4 @@
+el invitado
+el huésped
+el cliente
+el comensal

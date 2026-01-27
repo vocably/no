@@ -1,0 +1,4 @@
+die Hand
+die Seite
+die Art
+das Blatt

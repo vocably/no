@@ -1,0 +1,6 @@
+expression
+phrase
+term
+utterance
+manifestation
+representation

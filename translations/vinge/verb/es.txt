@@ -1,0 +1,4 @@
+equipar con alas
+dotar de alas
+volar
+moverse con alas

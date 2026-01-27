@@ -1,0 +1,4 @@
+romper
+buscar
+colgar
+desplegar

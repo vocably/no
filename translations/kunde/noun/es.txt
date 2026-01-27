@@ -1,0 +1,4 @@
+cliente
+consumidor
+comprador
+usuario

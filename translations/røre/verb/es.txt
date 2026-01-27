@@ -1,0 +1,5 @@
+tocar
+mover
+mezclar
+conmover
+agitar

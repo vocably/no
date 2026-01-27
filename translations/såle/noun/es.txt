@@ -1,0 +1,5 @@
+suela
+planta
+cimiento
+base
+zapata

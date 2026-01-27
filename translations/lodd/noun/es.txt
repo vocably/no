@@ -1,0 +1,6 @@
+billete
+boleto
+plomada
+suerte
+destino
+lote

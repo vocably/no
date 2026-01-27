@@ -1,0 +1,4 @@
+Menge
+Teil
+Masse
+Anteil

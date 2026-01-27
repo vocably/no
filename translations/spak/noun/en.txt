@@ -1,0 +1,4 @@
+lever
+handle
+stick
+control

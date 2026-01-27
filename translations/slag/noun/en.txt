@@ -1,0 +1,10 @@
+blow
+stroke
+hit
+battle
+kind
+type
+sort
+clash
+strike
+chime

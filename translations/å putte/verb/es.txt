@@ -1,0 +1,4 @@
+poner
+meter
+colocar
+introducir

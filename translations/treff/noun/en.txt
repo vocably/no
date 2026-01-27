@@ -1,0 +1,5 @@
+hit
+meeting
+encounter
+match
+result

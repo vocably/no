@@ -1,0 +1,4 @@
+parque
+estacionamiento
+flota
+área

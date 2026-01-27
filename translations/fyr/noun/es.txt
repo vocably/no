@@ -1,0 +1,7 @@
+faro
+baliza
+señal
+hombre
+tipo
+encendedor
+mechero

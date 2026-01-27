@@ -1,0 +1,4 @@
+artículo
+género
+cláusula
+producto

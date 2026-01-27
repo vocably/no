@@ -1,0 +1,4 @@
+firewood
+wood
+fuel
+logs

@@ -1,0 +1,5 @@
+touched
+affected
+moved
+concerned
+impacted

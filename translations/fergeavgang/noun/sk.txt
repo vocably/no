@@ -1,0 +1,3 @@
+odchod trajektu
+čas odchodu trajektu
+plánovaný odchod trajektu

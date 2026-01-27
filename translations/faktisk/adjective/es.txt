@@ -1,0 +1,5 @@
+real
+verdadero
+efectivo
+fáctico
+auténtico

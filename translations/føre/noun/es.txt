@@ -1,0 +1,10 @@
+camino
+vía
+sendero
+pista
+ruta
+estado del camino
+condición del terreno
+transitabilidad
+acceso
+paso

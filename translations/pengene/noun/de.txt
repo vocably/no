@@ -1,0 +1,5 @@
+Geld
+Vermögen
+Bargeld
+Zahlungsmittel
+Finanzmittel

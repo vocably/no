@@ -1,0 +1,6 @@
+girar
+doblar
+voltear
+virar
+orientar
+dirigir

@@ -1,0 +1,4 @@
+empleado
+trabajador
+asalariado
+dependiente

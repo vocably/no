@@ -1,0 +1,6 @@
+abrigo
+capa
+chaqueta
+cubierta
+funda
+carcasa

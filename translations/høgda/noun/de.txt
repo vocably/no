@@ -1,0 +1,5 @@
+die Höhe
+der Gipfel
+der Hügel
+das Niveau
+der Grad

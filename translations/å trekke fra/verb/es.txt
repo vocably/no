@@ -1,0 +1,5 @@
+restar
+deducir
+sustraer
+descontar
+rebajar

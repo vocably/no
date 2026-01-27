@@ -1,0 +1,9 @@
+encender
+disparar
+arrancar
+prender
+quemar
+lanzar
+detonar
+acelerar
+impulsar

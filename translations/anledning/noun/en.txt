@@ -1,0 +1,5 @@
+occasion
+opportunity
+event
+reason
+cause

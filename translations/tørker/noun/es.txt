@@ -1,0 +1,4 @@
+secador
+desecador
+enjugador
+persona que seca

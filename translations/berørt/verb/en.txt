@@ -1,0 +1,5 @@
+touched
+affected
+mentioned
+referred to
+impacted

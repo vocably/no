@@ -1,0 +1,5 @@
+cazador
+soldado
+buque
+ballenero
+pesquero

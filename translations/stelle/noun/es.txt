@@ -1,0 +1,6 @@
+lugar
+sitio
+área
+condición
+orden
+estado

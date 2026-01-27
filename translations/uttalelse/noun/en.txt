@@ -1,0 +1,5 @@
+statement
+utterance
+remark
+declaration
+opinion

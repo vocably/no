@@ -1,0 +1,3 @@
+ventilador
+abanico
+soplador

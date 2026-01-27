@@ -1,0 +1,6 @@
+solar
+poner suela a
+poner cimiento a
+poner base a
+cimentar
+basar

@@ -1,0 +1,4 @@
+hora
+clase
+cita
+lección

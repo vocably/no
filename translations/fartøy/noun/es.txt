@@ -1,0 +1,6 @@
+embarcación
+nave
+buque
+barco
+aeronave
+vehículo

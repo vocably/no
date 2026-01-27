@@ -1,0 +1,4 @@
+barrer
+recoger
+quitar el polvo
+limpiar

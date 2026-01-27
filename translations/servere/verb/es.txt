@@ -1,0 +1,4 @@
+servir
+saquear
+presentar
+ejecutar un saque

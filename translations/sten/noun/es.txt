@@ -1,0 +1,5 @@
+piedra
+hueso
+carozo
+roca
+mineral

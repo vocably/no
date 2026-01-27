@@ -1,0 +1,5 @@
+representante
+diputado
+cargo público electo
+miembro electo
+funcionario electo

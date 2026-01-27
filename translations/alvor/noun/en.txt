@@ -1,0 +1,4 @@
+seriousness
+gravity
+solemnity
+earnestness

@@ -1,0 +1,4 @@
+spent
+passed
+completed
+finished

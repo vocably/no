@@ -1,0 +1,3 @@
+rod
+pole
+bar

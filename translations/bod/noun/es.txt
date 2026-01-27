@@ -1,0 +1,6 @@
+bodega
+almacén
+caseta
+puesto
+tinglado
+chiringuito

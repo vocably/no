@@ -1,0 +1,5 @@
+Wetterwarnung
+Gefahrenwarnung
+Warnung
+Wetterwarnung der Stufe Gelb
+gelbe Gefahrenwarnung

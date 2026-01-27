@@ -1,0 +1,5 @@
+mover
+conmover
+emocionar
+trasladar
+desplazar
