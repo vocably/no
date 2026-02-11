@@ -1,0 +1,4 @@
+stirs
+touches
+moves
+affects
