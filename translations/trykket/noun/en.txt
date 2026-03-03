@@ -1,0 +1,4 @@
+pressure
+weight
+printing
+edition

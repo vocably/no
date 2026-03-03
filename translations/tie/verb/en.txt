@@ -1,0 +1,2 @@
+be silent
+keep quiet

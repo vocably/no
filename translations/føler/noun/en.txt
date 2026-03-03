@@ -1,0 +1,3 @@
+feeler
+sensor
+detector

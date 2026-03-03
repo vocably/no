@@ -1,0 +1,4 @@
+iron
+stroke
+fail
+delete

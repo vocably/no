@@ -1,0 +1,4 @@
+carry
+wear
+bear
+display
