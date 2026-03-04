@@ -1,0 +1,1 @@
+["uitkoms","aanval","uitval"]

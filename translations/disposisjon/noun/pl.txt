@@ -1,0 +1,1 @@
+["dyspozycja","rozporządzanie","predyspozycja","usposobienie"]

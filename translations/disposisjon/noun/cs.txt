@@ -1,0 +1,1 @@
+["dispozice","rozvrh","schopnost","nadání"]

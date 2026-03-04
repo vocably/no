@@ -1,4 +1,1 @@
-beträchtlich
-erheblich
-wichtig
-bedeutend
+["beträchtlich","erheblich"]

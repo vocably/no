@@ -1,0 +1,1 @@
+["rendelkezés","elrendezés","hajlam","fogékonyság"]

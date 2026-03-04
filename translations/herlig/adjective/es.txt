@@ -1,7 +1,1 @@
-delicioso
-espléndido
-magnífico
-excelente
-maravilloso
-glorioso
-sublime
+["delicioso","espléndido","excelente"]

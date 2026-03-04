@@ -1,10 +1,1 @@
-cauteloso
-prudente
-cuidadoso
-reservado
-discreto
-circunspecto
-aprensivo
-receloso
-tímido
-vacilante
+["cauto","precavido"]

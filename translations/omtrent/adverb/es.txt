@@ -1,3 +1,1 @@
-aproximadamente
-casi
-alrededor de
+["casi","aproximadamente"]
