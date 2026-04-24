@@ -1,1 +1,3 @@
-["trou","wy","heilig"]
+trou
+wy
+heilig

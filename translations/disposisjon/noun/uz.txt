@@ -1,1 +1,4 @@
-["reja","loyihasi","egalik","moyillik"]
+reja
+loyihasi
+egalik
+moyillik

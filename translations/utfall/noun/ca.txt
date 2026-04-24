@@ -1,1 +1,3 @@
-["resultat","atac","crítica"]
+resultat
+atac
+crítica

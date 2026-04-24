@@ -1,1 +1,3 @@
-["delightful","magnificent","excellent"]
+delightful
+magnificent
+excellent

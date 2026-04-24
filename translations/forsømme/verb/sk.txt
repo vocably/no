@@ -1,1 +1,3 @@
-["zanedbať","zmeškať","premeškať"]
+zanedbať
+zmeškať
+premeškať

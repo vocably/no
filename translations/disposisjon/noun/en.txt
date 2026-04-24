@@ -1,1 +1,4 @@
-["disposition","plan","arrangement","predisposition"]
+disposition
+plan
+arrangement
+predisposition

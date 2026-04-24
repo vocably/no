@@ -1,1 +1,3 @@
-["kuroora","kupa","kutsvenesa"]
+kuroora
+kupa
+kutsvenesa

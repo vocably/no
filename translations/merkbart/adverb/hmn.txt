@@ -1,1 +1,3 @@
-["pom","paaj","ntxim hnov"]
+pom
+paaj
+ntxim hnov

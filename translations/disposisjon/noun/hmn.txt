@@ -1,1 +1,4 @@
-["txheej txheem","kev npaj","kev muaj peev xwm","kev tswj hwm"]
+txheej txheem
+kev npaj
+kev muaj peev xwm
+kev tswj hwm

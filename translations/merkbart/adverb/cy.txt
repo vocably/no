@@ -1,1 +1,3 @@
-["yn amlwg","yn sylweddol","yn drawiadol"]
+yn amlwg
+yn sylweddol
+yn drawiadol

@@ -1,1 +1,3 @@
-["brīnišķīgs","lielisks","krāšņs"]
+brīnišķīgs
+lielisks
+krāšņs

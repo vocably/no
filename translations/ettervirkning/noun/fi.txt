@@ -1,1 +1,2 @@
-["jälkivaikutus","seuraus"]
+jälkivaikutus
+seuraus

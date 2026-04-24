@@ -1,1 +1,2 @@
-["trajan","stalan"]
+trajan
+stalan

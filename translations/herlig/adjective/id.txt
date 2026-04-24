@@ -1,1 +1,3 @@
-["menyen","indah","hebat"]
+menyen
+indah
+hebat

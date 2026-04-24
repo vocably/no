@@ -1,1 +1,2 @@
-["besar","penting"]
+besar
+penting

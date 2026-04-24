@@ -1,1 +1,4 @@
-["dispusizione","pianu","schema","predisposizione"]
+dispusizione
+pianu
+schema
+predisposizione

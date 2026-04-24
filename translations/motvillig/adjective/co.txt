@@ -1,1 +1,2 @@
-["malincuniosu","cuntrariatu"]
+malincuniosu
+cuntrariatu

@@ -1,1 +1,3 @@
-["emaitza","eraso","kritika"]
+emaitza
+eraso
+kritika

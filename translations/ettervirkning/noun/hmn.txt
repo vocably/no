@@ -1,1 +1,2 @@
-["kev mob tom qab","kev tshuam"]
+kev mob tom qab
+kev tshuam

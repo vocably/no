@@ -1,1 +1,2 @@
-["suriin","isaalang-alang"]
+suriin
+isaalang-alang

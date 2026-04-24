@@ -1,1 +1,4 @@
-["isicwangciso","ilungelo","ukuthambekela","isimo"]
+isicwangciso
+ilungelo
+ukuthambekela
+isimo

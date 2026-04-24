@@ -1,1 +1,2 @@
-["Nofolleg","Konsequenz"]
+Nofolleg
+Konsequenz

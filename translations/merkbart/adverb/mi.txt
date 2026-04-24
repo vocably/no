@@ -1,1 +1,3 @@
-["kitea","mārama","whakaari"]
+kitea
+mārama
+whakaari

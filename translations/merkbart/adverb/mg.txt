@@ -1,1 +1,3 @@
-["tsapa","hita maso","azo tsapain-tanana"]
+tsapa
+hita maso
+azo tsapain-tanana

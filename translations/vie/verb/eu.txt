@@ -1,1 +1,3 @@
-["ezkontza bat egin","sagartu","kontsakratu"]
+ezkontza bat egin
+sagartu
+kontsakratu

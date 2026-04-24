@@ -1,1 +1,2 @@
-["hlokolotsi","bonolo"]
+hlokolotsi
+bonolo

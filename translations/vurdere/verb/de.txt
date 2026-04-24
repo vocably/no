@@ -1,1 +1,2 @@
-["bewerten","erwägen"]
+bewerten
+erwägen

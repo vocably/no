@@ -1,1 +1,3 @@
-["sakamako","hari","fada"]
+sakamako
+hari
+fada

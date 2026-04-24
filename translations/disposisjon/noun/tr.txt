@@ -1,1 +1,4 @@
-["düzen","taslak","kullanma hakkı","yatkınlık"]
+düzen
+taslak
+kullanma hakkı
+yatkınlık

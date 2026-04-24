@@ -1,1 +1,4 @@
-["eskura","xedapen","joera","dohain"]
+eskura
+xedapen
+joera
+dohain

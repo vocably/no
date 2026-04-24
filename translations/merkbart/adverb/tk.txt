@@ -1,1 +1,3 @@
-["duýulýan","belli","aýdyň"]
+duýulýan
+belli
+aýdyň

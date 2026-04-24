@@ -1,1 +1,2 @@
-["umda","isango"]
+umda
+isango

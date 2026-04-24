@@ -1,1 +1,3 @@
-["hoʻāo","kapu","laʻa"]
+hoʻāo
+kapu
+laʻa

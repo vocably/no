@@ -1,1 +1,2 @@
-["nirxandin","ramandin"]
+nirxandin
+ramandin

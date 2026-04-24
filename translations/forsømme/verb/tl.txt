@@ -1,1 +1,3 @@
-["pabayaan","ipagpaliban","palampasin"]
+pabayaan
+ipagpaliban
+palampasin

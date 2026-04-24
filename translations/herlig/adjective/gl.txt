@@ -1,1 +1,3 @@
-["marabilloso","espléndido","excelente"]
+marabilloso
+espléndido
+excelente

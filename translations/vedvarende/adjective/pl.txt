@@ -1,1 +1,2 @@
-["ciągły","nieustanny"]
+ciągły
+nieustanny

@@ -1,1 +1,2 @@
-["giňişleýin","külli"]
+giňişleýin
+külli

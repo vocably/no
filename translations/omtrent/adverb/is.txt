@@ -1,1 +1,2 @@
-["nærri","svo gott sem"]
+nærri
+svo gott sem

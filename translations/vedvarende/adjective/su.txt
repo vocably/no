@@ -1,1 +1,2 @@
-["langgeng","tuluy-tuluy"]
+langgeng
+tuluy-tuluy

@@ -1,1 +1,3 @@
-["indah","mulia","hebat"]
+indah
+mulia
+hebat

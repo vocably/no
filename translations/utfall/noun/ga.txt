@@ -1,1 +1,3 @@
-["toradh","ionsaí","cáineadh"]
+toradh
+ionsaí
+cáineadh

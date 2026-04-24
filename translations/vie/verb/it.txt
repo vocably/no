@@ -1,1 +1,3 @@
-["sposare","dedicare","consacrare"]
+sposare
+dedicare
+consacrare

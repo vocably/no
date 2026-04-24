@@ -1,1 +1,2 @@
-["pidev","jätkuv"]
+pidev
+jätkuv

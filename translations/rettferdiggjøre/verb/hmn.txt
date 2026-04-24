@@ -1,1 +1,2 @@
-["ua kom yog","tiv thaiv"]
+ua kom yog
+tiv thaiv

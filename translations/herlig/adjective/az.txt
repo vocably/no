@@ -1,1 +1,3 @@
-["möhtəşəm","zövqlü","əla"]
+möhtəşəm
+zövqlü
+əla

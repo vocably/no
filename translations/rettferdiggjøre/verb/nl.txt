@@ -1,1 +1,2 @@
-["rechtvaardigen","verdedigen"]
+rechtvaardigen
+verdedigen

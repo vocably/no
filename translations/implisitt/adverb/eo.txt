@@ -1,1 +1,2 @@
-["implice","subkomprenate"]
+implice
+subkomprenate

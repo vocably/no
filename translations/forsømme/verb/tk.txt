@@ -1,1 +1,3 @@
-["üns bermezlik","ýerine ýetirmezlik","sypdyrmak"]
+üns bermezlik
+ýerine ýetirmezlik
+sypdyrmak

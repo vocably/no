@@ -1,1 +1,4 @@
-["disposition","plan","aptitude","prédisposition"]
+disposition
+plan
+aptitude
+prédisposition

@@ -1,1 +1,2 @@
-["ukulinganisa","ukuqwalasela"]
+ukulinganisa
+ukuqwalasela

@@ -1,1 +1,2 @@
-["igazol","jogosnak talál"]
+igazol
+jogosnak talál

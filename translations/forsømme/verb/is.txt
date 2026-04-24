@@ -1,1 +1,3 @@
-["vanrækja","sinna ekki","láta fram hjá sér fara"]
+vanrækja
+sinna ekki
+láta fram hjá sér fara

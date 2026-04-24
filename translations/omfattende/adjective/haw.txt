@@ -1,1 +1,2 @@
-["lahui","nui"]
+lahui
+nui

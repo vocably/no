@@ -1,1 +1,3 @@
-["ingqibelelo","inyaniso","ukungonakali"]
+ingqibelelo
+inyaniso
+ukungonakali

@@ -1,1 +1,3 @@
-["kwa kuonekana","kwa uwazi","dhahiri"]
+kwa kuonekana
+kwa uwazi
+dhahiri

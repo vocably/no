@@ -1,1 +1,3 @@
-["nikmat","endah","saé"]
+nikmat
+endah
+saé

@@ -1,1 +1,3 @@
-["emnandi","ntle","balaseleyo"]
+emnandi
+ntle
+balaseleyo

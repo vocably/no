@@ -1,1 +1,3 @@
-["marena","whakatapu","tapu"]
+marena
+whakatapu
+tapu

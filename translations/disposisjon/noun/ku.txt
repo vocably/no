@@ -1,1 +1,4 @@
-["rêveberî","amadekarî","pêşnûma","destûr"]
+rêveberî
+amadekarî
+pêşnûma
+destûr

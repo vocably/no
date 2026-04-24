@@ -1,1 +1,2 @@
-["soj ntsuam","xav txog"]
+soj ntsuam
+xav txog

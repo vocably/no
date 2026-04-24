@@ -1,1 +1,2 @@
-["patunayan","ipagtanggol"]
+patunayan
+ipagtanggol

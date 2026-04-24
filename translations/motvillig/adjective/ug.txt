@@ -1,1 +1,2 @@
-["isteksiz","xahishsiz"]
+isteksiz
+xahishsiz

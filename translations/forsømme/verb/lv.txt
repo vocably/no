@@ -1,1 +1,3 @@
-["palaist","neievērot","nokavēt"]
+palaist
+neievērot
+nokavēt

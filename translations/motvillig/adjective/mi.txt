@@ -1,1 +1,2 @@
-["ngākau kore","ohorere"]
+ngākau kore
+ohorere

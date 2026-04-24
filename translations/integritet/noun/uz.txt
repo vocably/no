@@ -1,1 +1,3 @@
-["halollik","rostgo'ylik","poklik"]
+halollik
+rostgo'ylik
+poklik

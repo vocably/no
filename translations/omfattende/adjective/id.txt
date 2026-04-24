@@ -1,1 +1,2 @@
-["luas","menyeluruh"]
+luas
+menyeluruh

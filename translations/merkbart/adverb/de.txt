@@ -1,1 +1,3 @@
-["merklich","spürbar","auffallend"]
+merklich
+spürbar
+auffallend

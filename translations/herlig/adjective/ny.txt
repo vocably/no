@@ -1,1 +1,3 @@
-["chosalatsa","wokongola","wabwino"]
+chosalatsa
+wokongola
+wabwino

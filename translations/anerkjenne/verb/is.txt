@@ -1,1 +1,3 @@
-["viðurkenna","játa","meta"]
+viðurkenna
+játa
+meta

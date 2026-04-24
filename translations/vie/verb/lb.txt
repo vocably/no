@@ -1,1 +1,3 @@
-["bestueden","weihen","hellegen"]
+bestueden
+weihen
+hellegen

@@ -1,1 +1,3 @@
-["riżultat","konsegwenza","attakk"]
+riżultat
+konsegwenza
+attakk

@@ -1,1 +1,4 @@
-["plano","kaayusan","pagkakaroon","kakayahan"]
+plano
+kaayusan
+pagkakaroon
+kakayahan

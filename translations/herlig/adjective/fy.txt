@@ -1,1 +1,3 @@
-["hearlik","prachtich","treflik"]
+hearlik
+prachtich
+treflik

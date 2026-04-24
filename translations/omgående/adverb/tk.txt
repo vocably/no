@@ -1,1 +1,3 @@
-["derrew","badyna","dessine"]
+derrew
+badyna
+dessine

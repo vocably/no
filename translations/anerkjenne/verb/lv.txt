@@ -1,1 +1,3 @@
-["atzīt","apzināties","novērtēt"]
+atzīt
+apzināties
+novērtēt

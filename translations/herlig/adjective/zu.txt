@@ -1,1 +1,3 @@
-["okuhle kakhulu","okuhle","okumnandi"]
+okuhle kakhulu
+okuhle
+okumnandi

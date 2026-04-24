@@ -1,1 +1,4 @@
-["kế hoạch","sự sắp xếp","khuynh hướng","tài sản"]
+kế hoạch
+sự sắp xếp
+khuynh hướng
+tài sản

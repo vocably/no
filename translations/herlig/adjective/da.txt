@@ -1,1 +1,3 @@
-["herlig","dejlig","vidunderlig"]
+herlig
+dejlig
+vidunderlig

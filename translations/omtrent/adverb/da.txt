@@ -1,1 +1,2 @@
-["næsten","omtrent"]
+næsten
+omtrent

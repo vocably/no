@@ -1,1 +1,3 @@
-["härlig","underbar","praktfull"]
+härlig
+underbar
+praktfull

@@ -1,1 +1,3 @@
-["primjetno","uočljivo","zamjetno"]
+primjetno
+uočljivo
+zamjetno

@@ -1,1 +1,2 @@
-["evalueer","oorweeg"]
+evalueer
+oorweeg

@@ -1,1 +1,3 @@
-["yglan etmek","kabul etmek","boyun egmek"]
+yglan etmek
+kabul etmek
+boyun egmek

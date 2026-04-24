@@ -1,1 +1,2 @@
-["verulegur","mikill"]
+verulegur
+mikill

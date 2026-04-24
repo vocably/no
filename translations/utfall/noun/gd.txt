@@ -1,1 +1,3 @@
-["buaidh","ionnsaigh","càineadh"]
+buaidh
+ionnsaigh
+càineadh

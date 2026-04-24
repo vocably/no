@@ -1,1 +1,2 @@
-["moeli","leqhubu"]
+moeli
+leqhubu

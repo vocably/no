@@ -1,1 +1,2 @@
-["ehtiyatlı","tərəddüdlü"]
+ehtiyatlı
+tərəddüdlü

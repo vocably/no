@@ -1,1 +1,2 @@
-["ongär","ongewollt"]
+ongär
+ongewollt

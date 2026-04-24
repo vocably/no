@@ -1,1 +1,3 @@
-["nikah","ngurban","nguduskeun"]
+nikah
+ngurban
+nguduskeun

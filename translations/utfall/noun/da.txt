@@ -1,1 +1,3 @@
-["udfald","resultat","angreb"]
+udfald
+resultat
+angreb

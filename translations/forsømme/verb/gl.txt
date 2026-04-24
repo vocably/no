@@ -1,1 +1,3 @@
-["desatender","neglixir","perder"]
+desatender
+neglixir
+perder

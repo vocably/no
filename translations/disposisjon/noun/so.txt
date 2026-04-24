@@ -1,1 +1,4 @@
-["qorshe","diyaarin","isticmaal","hufnaan"]
+qorshe
+diyaarin
+isticmaal
+hufnaan

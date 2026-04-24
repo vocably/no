@@ -1,1 +1,3 @@
-["bütünlük","dürüstlük","doğruluk"]
+bütünlük
+dürüstlük
+doğruluk

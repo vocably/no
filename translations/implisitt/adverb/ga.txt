@@ -1,1 +1,2 @@
-["go bunúsach","go hindíreach"]
+go bunúsach
+go hindíreach

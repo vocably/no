@@ -1,1 +1,2 @@
-["malosi","tetee"]
+malosi
+tetee

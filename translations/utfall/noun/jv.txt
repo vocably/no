@@ -1,1 +1,3 @@
-["asil","serangan","hasil"]
+asil
+serangan
+hasil

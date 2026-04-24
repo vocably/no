@@ -1,1 +1,2 @@
-["baloratu","kontuan hartu"]
+baloratu
+kontuan hartu

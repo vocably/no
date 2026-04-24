@@ -1,1 +1,2 @@
-["aproape","cam"]
+aproape
+cam

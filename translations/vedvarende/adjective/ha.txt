@@ -1,1 +1,2 @@
-["mai dorewa","ci gaba"]
+mai dorewa
+ci gaba

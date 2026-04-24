@@ -1,1 +1,2 @@
-["novērtēt","apdomāt"]
+novērtēt
+apdomāt

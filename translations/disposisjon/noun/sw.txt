@@ -1,1 +1,4 @@
-["mpangilio","utayari","uwezo","tabia"]
+mpangilio
+utayari
+uwezo
+tabia

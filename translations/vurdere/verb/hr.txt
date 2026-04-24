@@ -1,1 +1,2 @@
-["procijeniti","razmotriti"]
+procijeniti
+razmotriti

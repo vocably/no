@@ -1,1 +1,2 @@
-["tilstrækkelig","nok"]
+tilstrækkelig
+nok

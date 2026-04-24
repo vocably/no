@@ -1,1 +1,3 @@
-["dispositie","aanleg","beschikking"]
+dispositie
+aanleg
+beschikking

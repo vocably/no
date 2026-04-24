@@ -1,1 +1,3 @@
-["mierkbar","opfaalend","siichtbar"]
+mierkbar
+opfaalend
+siichtbar

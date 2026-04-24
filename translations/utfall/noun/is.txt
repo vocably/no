@@ -1,1 +1,3 @@
-["árangur","útkoma","árás"]
+árangur
+útkoma
+árás

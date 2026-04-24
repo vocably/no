@@ -1,1 +1,3 @@
-["odmah","neposredno","smjesta"]
+odmah
+neposredno
+smjesta

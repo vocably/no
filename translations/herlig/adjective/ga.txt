@@ -1,1 +1,3 @@
-["álainn","galánta","aoibhinn"]
+álainn
+galánta
+aoibhinn

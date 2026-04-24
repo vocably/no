@@ -1,1 +1,3 @@
-["bitaraplyk","arassa ahlaklylyk","dogruçyllyk"]
+bitaraplyk
+arassa ahlaklylyk
+dogruçyllyk

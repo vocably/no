@@ -1,1 +1,3 @@
-["zewac kirin","feda kirin","pîroz kirin"]
+zewac kirin
+feda kirin
+pîroz kirin

@@ -1,1 +1,4 @@
-["hoʻolālā","kumumanaʻo","kūlana","mana"]
+hoʻolālā
+kumumanaʻo
+kūlana
+mana

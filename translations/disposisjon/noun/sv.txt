@@ -1,1 +1,4 @@
-["disposition","plan","anlag","mottaglighet"]
+disposition
+plan
+anlag
+mottaglighet

@@ -1,1 +1,2 @@
-["davamlı","fasilesiz"]
+davamlı
+fasilesiz

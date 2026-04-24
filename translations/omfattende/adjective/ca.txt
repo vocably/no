@@ -1,1 +1,2 @@
-["extens","exhaustiu"]
+extens
+exhaustiu

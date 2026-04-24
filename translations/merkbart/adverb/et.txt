@@ -1,1 +1,3 @@
-["märgatavalt","märkimisväärselt","silmatorkavalt"]
+märgatavalt
+märkimisväärselt
+silmatorkavalt

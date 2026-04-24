@@ -1,1 +1,3 @@
-["čudovit","krasen","odličen"]
+čudovit
+krasen
+odličen

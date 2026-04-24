@@ -1,1 +1,2 @@
-["tartós","folyamatos"]
+tartós
+folyamatos

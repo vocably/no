@@ -1,1 +1,3 @@
-["ako kanya","ako ubu","ubu nonaha"]
+ako kanya
+ako ubu
+ubu nonaha

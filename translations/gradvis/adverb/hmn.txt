@@ -1,1 +1,2 @@
-["maj mam","ib ruam zuj zus"]
+maj mam
+ib ruam zuj zus

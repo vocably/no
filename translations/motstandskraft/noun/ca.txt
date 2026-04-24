@@ -1,1 +1,2 @@
-["resistència","força"]
+resistència
+força

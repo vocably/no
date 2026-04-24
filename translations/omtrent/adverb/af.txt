@@ -1,1 +1,2 @@
-["omtrent","byna"]
+omtrent
+byna

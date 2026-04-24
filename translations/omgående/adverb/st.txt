@@ -1,1 +1,3 @@
-["hanghang","kaha","joale"]
+hanghang
+kaha
+joale

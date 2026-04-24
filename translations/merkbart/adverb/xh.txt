@@ -1,1 +1,3 @@
-["ngokubonakalayo","ngokuphawulekayo","ngokucacileyo"]
+ngokubonakalayo
+ngokuphawulekayo
+ngokucacileyo

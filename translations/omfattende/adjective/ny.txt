@@ -1,1 +1,2 @@
-["wambiri","wokwanira"]
+wambiri
+wokwanira

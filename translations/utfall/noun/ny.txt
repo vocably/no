@@ -1,1 +1,3 @@
-["zotsatira","chiwembu","kudzudzula"]
+zotsatira
+chiwembu
+kudzudzula

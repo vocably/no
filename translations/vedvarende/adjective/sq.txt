@@ -1,1 +1,2 @@
-["i vazhdueshëm","i pandërprerë"]
+i vazhdueshëm
+i pandërprerë

@@ -1,1 +1,2 @@
-["strascico","conseguenza"]
+strascico
+conseguenza

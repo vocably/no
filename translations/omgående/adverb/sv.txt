@@ -1,1 +1,3 @@
-["omgående","omedelbart","genast"]
+omgående
+omedelbart
+genast

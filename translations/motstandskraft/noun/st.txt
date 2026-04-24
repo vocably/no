@@ -1,1 +1,2 @@
-["khanyetso","ho hanela"]
+khanyetso
+ho hanela

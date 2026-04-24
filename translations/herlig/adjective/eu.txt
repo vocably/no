@@ -1,1 +1,3 @@
-["ederra","bikaina","zoragarria"]
+ederra
+bikaina
+zoragarria

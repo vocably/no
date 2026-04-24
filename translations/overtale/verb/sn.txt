@@ -1,1 +1,2 @@
-["kunyengerera","kunyengetedza"]
+kunyengerera
+kunyengetedza

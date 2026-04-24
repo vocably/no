@@ -1,1 +1,3 @@
-["manambady","manokana","manamasina"]
+manambady
+manokana
+manamasina

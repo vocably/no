@@ -1,1 +1,2 @@
-["enplisitman","endirekteman"]
+enplisitman
+endirekteman

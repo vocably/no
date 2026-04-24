@@ -1,1 +1,3 @@
-["merkbaar","duidelik","opvallend"]
+merkbaar
+duidelik
+opvallend

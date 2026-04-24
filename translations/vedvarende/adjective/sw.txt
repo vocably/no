@@ -1,1 +1,2 @@
-["endelevu","kuendelea"]
+endelevu
+kuendelea

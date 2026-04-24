@@ -1,1 +1,2 @@
-["vokany","faharavana"]
+vokany
+faharavana

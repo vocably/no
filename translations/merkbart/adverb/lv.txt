@@ -1,1 +1,3 @@
-["ievērojami","manāmi","redzami"]
+ievērojami
+manāmi
+redzami

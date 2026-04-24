@@ -1,1 +1,2 @@
-["ubudahangarwa","imbaraga"]
+ubudahangarwa
+imbaraga

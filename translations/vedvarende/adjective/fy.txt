@@ -1,1 +1,2 @@
-["oanhâldend","duorjend"]
+oanhâldend
+duorjend

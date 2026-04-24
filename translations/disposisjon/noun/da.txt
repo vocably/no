@@ -1,1 +1,4 @@
-["disposition","rådighed","anlæg","modtagelighed"]
+disposition
+rådighed
+anlæg
+modtagelighed

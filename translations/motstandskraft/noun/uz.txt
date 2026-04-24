@@ -1,1 +1,2 @@
-["qarshilik","bardosh"]
+qarshilik
+bardosh

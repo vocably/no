@@ -1,1 +1,2 @@
-["reżistenza","qawwa"]
+reżistenza
+qawwa

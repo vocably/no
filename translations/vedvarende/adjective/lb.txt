@@ -1,1 +1,2 @@
-["dauerhaft","kontinuéierlech"]
+dauerhaft
+kontinuéierlech

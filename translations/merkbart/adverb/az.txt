@@ -1,1 +1,3 @@
-["nəzərəçarpacaq dərəcədə","aydın şəkildə","gözəçarpan şəkildə"]
+nəzərəçarpacaq dərəcədə
+aydın şəkildə
+gözəçarpan şəkildə

@@ -1,1 +1,2 @@
-["résistance","force"]
+résistance
+force

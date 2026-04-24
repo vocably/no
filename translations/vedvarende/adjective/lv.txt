@@ -1,1 +1,2 @@
-["pastāvīgs","nepārtraukts"]
+pastāvīgs
+nepārtraukts

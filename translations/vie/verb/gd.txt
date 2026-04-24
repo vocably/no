@@ -1,1 +1,3 @@
-["pòs","coisrig","naomhaich"]
+pòs
+coisrig
+naomhaich

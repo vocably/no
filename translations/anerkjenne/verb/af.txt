@@ -1,1 +1,3 @@
-["erken","erkenning gee","beken"]
+erken
+erkenning gee
+beken

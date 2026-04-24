@@ -1,1 +1,3 @@
-["touswit","imedyatman","san pèdi tan"]
+touswit
+imedyatman
+san pèdi tan

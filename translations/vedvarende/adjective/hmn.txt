@@ -1,1 +1,2 @@
-["nyob mus li","mus ib txhis"]
+nyob mus li
+mus ib txhis

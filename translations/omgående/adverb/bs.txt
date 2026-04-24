@@ -1,1 +1,3 @@
-["odmah","hitno","neposredno"]
+odmah
+hitno
+neposredno

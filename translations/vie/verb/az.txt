@@ -1,1 +1,3 @@
-["evlənmək","həsr etmək","müqəddəsləşdirmək"]
+evlənmək
+həsr etmək
+müqəddəsləşdirmək

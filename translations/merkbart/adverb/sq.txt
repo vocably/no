@@ -1,1 +1,3 @@
-["dukshëm","ndjeshëm","qartë"]
+dukshëm
+ndjeshëm
+qartë

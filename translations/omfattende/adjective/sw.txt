@@ -1,1 +1,2 @@
-["kubwa","pana"]
+kubwa
+pana

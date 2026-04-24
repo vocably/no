@@ -1,1 +1,3 @@
-["trouwen","wijden","heiligen"]
+trouwen
+wijden
+heiligen

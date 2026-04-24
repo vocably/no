@@ -1,1 +1,3 @@
-["daacadnimo","sharaf","damiir"]
+daacadnimo
+sharaf
+damiir

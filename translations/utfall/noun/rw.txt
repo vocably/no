@@ -1,1 +1,3 @@
-["igikorwa","umusaruro","igitero"]
+igikorwa
+umusaruro
+igitero

@@ -1,1 +1,3 @@
-["matagofie","manaia","sili"]
+matagofie
+manaia
+sili

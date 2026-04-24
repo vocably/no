@@ -1,1 +1,3 @@
-["alde batera utzi","ez bete","galdu"]
+alde batera utzi
+ez bete
+galdu

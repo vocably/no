@@ -1,1 +1,3 @@
-["minunat","splendid","excelent"]
+minunat
+splendid
+excelent

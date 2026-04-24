@@ -1,1 +1,2 @@
-["kontinwu","dejjiemi"]
+kontinwu
+dejjiemi

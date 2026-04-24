@@ -1,1 +1,2 @@
-["tala um","telja á"]
+tala um
+telja á

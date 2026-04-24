@@ -1,1 +1,2 @@
-["i pavullnetshëm","ngurrues"]
+i pavullnetshëm
+ngurrues

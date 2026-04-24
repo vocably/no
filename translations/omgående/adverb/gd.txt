@@ -1,1 +1,3 @@
-["sa bhad","gun dàil","anns a' bhad"]
+sa bhad
+gun dàil
+anns a' bhad

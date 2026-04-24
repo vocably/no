@@ -1,1 +1,3 @@
-["ngay lập tức","lập tức","tức thì"]
+ngay lập tức
+lập tức
+tức thì

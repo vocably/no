@@ -1,1 +1,2 @@
-["pothuajse","afërsisht"]
+pothuajse
+afërsisht

@@ -1,1 +1,3 @@
-["heerlik","pragtig","uitstekend"]
+heerlik
+pragtig
+uitstekend

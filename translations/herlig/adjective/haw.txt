@@ -1,1 +1,3 @@
-["ʻono","nani","maikaʻi loa"]
+ʻono
+nani
+maikaʻi loa

@@ -1,1 +1,2 @@
-["kważi","madwar"]
+kważi
+madwar

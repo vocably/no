@@ -1,1 +1,3 @@
-["pašvęsti","dedikuoti","įšventinti"]
+pašvęsti
+dedikuoti
+įšventinti

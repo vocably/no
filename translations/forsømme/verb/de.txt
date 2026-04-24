@@ -1,1 +1,3 @@
-["versäumen","vernachlässigen","verpassen"]
+versäumen
+vernachlässigen
+verpassen

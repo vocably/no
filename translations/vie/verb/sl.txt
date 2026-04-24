@@ -1,1 +1,3 @@
-["poročiti se","posvetiti","posvetiti se"]
+poročiti se
+posvetiti
+posvetiti se

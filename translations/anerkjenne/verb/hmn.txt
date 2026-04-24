@@ -1,1 +1,3 @@
-["lees paub","txais yuav","qhia tias yog"]
+lees paub
+txais yuav
+qhia tias yog

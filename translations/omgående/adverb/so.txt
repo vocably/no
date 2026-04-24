@@ -1,1 +1,3 @@
-["haddii","isla markiiba","degdeg"]
+haddii
+isla markiiba
+degdeg

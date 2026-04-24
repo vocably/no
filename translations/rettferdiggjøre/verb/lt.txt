@@ -1,1 +1,2 @@
-["pateisinti","pagrįsti"]
+pateisinti
+pagrįsti

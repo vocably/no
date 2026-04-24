@@ -1,1 +1,3 @@
-["zvinonyatsooneka","zviri pachena","zvinoshamisa"]
+zvinonyatsooneka
+zviri pachena
+zvinoshamisa

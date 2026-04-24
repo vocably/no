@@ -1,1 +1,3 @@
-["tapatahi","pono","ngakau pono"]
+tapatahi
+pono
+ngakau pono

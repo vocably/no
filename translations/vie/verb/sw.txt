@@ -1,1 +1,3 @@
-["kuoa","kufunga ndoa","kutabaruku"]
+kuoa
+kufunga ndoa
+kutabaruku

@@ -1,1 +1,3 @@
-["trouwe","wije","hilligje"]
+trouwe
+wije
+hilligje

@@ -1,1 +1,4 @@
-["dispozicija","planas","išdėstymas","polinkis"]
+dispozicija
+planas
+išdėstymas
+polinkis

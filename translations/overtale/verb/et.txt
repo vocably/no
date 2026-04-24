@@ -1,1 +1,2 @@
-["veenda","rääkima"]
+veenda
+rääkima

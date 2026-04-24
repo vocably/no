@@ -1,1 +1,2 @@
-["quasi","circa"]
+quasi
+circa

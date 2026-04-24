@@ -1,1 +1,2 @@
-["trvalý","nepřetržitý"]
+trvalý
+nepřetržitý

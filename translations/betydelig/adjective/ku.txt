@@ -1,1 +1,2 @@
-["girîng","mezin"]
+girîng
+mezin

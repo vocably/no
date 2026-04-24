@@ -1,1 +1,3 @@
-["vie","dedikere","hellige"]
+vie
+dedikere
+hellige

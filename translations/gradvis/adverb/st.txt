@@ -1,1 +1,2 @@
-["butle","ka ho thella"]
+butle
+ka ho thella

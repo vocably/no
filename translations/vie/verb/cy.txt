@@ -1,1 +1,3 @@
-["cysegru","bendithio","sancteiddio"]
+cysegru
+bendithio
+sancteiddio

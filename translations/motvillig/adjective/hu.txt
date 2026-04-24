@@ -1,1 +1,2 @@
-["kelletlenül","vonakodva"]
+kelletlenül
+vonakodva

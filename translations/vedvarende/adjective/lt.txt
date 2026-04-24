@@ -1,1 +1,2 @@
-["nuolatinis","ištisinis"]
+nuolatinis
+ištisinis

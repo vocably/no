@@ -1,1 +1,2 @@
-["gwerthuso","ystyried"]
+gwerthuso
+ystyried

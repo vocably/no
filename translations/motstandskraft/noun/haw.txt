@@ -1,1 +1,2 @@
-["ia","ikaika"]
+ia
+ikaika

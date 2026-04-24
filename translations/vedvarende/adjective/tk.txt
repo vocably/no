@@ -1,1 +1,2 @@
-["dowamly","uzaga çeken"]
+dowamly
+uzaga çeken

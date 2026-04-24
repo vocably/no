@@ -1,1 +1,2 @@
-["nästan","så gott som"]
+nästan
+så gott som

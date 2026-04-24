@@ -1,1 +1,3 @@
-["faʻaipoipo","tuʻuina atu","faʻasāina"]
+faʻaipoipo
+tuʻuina atu
+faʻasāina

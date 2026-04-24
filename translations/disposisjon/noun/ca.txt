@@ -1,1 +1,4 @@
-["disposició","pla","predisposició","aptitud"]
+disposició
+pla
+predisposició
+aptitud

@@ -1,1 +1,3 @@
-["mafai ona iloa","mafai ona matauina","mafai ona vaaia"]
+mafai ona iloa
+mafai ona matauina
+mafai ona vaaia

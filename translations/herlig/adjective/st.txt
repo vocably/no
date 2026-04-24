@@ -1,1 +1,3 @@
-["thabisa","ntle","molemo"]
+thabisa
+ntle
+molemo

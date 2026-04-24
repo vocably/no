@@ -1,1 +1,3 @@
-["heiraten","weihen","trauen"]
+heiraten
+weihen
+trauen

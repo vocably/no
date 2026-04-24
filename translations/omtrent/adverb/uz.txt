@@ -1,1 +1,2 @@
-["deyarli","taxminan"]
+deyarli
+taxminan

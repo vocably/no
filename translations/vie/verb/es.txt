@@ -1,1 +1,3 @@
-["casarse","dedicar","santificar"]
+casarse
+dedicar
+santificar

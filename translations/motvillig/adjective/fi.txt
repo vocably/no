@@ -1,1 +1,2 @@
-["vastahakoinen","vastentahtoinen"]
+vastahakoinen
+vastentahtoinen

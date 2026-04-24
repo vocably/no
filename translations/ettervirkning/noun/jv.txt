@@ -1,1 +1,2 @@
-["akibat","efek"]
+akibat
+efek

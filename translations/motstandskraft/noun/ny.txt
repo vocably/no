@@ -1,1 +1,2 @@
-["mphamvu","kulimbana"]
+mphamvu
+kulimbana

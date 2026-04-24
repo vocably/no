@@ -1,1 +1,2 @@
-["oprezan","suzdržan"]
+oprezan
+suzdržan

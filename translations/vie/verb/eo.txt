@@ -1,1 +1,3 @@
-["sanktigi","konsekri","beni"]
+sanktigi
+konsekri
+beni

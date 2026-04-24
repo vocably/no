@@ -1,1 +1,3 @@
-["ngokushesha","masinyane","manje"]
+ngokushesha
+masinyane
+manje

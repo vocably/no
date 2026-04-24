@@ -1,1 +1,3 @@
-["vjenčati se","posvetiti","osvetiti"]
+vjenčati se
+posvetiti
+osvetiti

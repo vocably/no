@@ -1,1 +1,2 @@
-["manamarina","miaro"]
+manamarina
+miaro

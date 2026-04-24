@@ -1,1 +1,3 @@
-["rimarkeble","percepteble","okulfrape"]
+rimarkeble
+percepteble
+okulfrape

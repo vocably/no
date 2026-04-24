@@ -1,1 +1,3 @@
-["cudowny","wspaniały","rozkoszny"]
+cudowny
+wspaniały
+rozkoszny

@@ -1,1 +1,3 @@
-["marier","dédier","consacrer"]
+marier
+dédier
+consacrer

@@ -1,1 +1,2 @@
-["opatrný","zdržanlivý"]
+opatrný
+zdržanlivý

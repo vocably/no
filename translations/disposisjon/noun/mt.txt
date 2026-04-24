@@ -1,1 +1,4 @@
-["dispożizzjoni","pjan","arranġament","predispożizzjoni"]
+dispożizzjoni
+pjan
+arranġament
+predispożizzjoni

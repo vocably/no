@@ -1,1 +1,3 @@
-["integritet","paprekshmëri","ndershmëri"]
+integritet
+paprekshmëri
+ndershmëri

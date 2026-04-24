@@ -1,1 +1,2 @@
-["meastóireacht a dhéanamh ar","breithniú a dhéanamh ar"]
+meastóireacht a dhéanamh ar
+breithniú a dhéanamh ar

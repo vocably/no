@@ -1,1 +1,3 @@
-["natiijo","weerar","dhaleeceyn"]
+natiijo
+weerar
+dhaleeceyn

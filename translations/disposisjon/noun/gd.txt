@@ -1,1 +1,4 @@
-["ullamhachd","comas","claonadh","suidheachadh"]
+ullamhachd
+comas
+claonadh
+suidheachadh

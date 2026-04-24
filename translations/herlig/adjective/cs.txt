@@ -1,1 +1,3 @@
-["nádherný","skvělý","úžasný"]
+nádherný
+skvělý
+úžasný

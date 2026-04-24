@@ -1,1 +1,2 @@
-["beagnach","timpeall"]
+beagnach
+timpeall

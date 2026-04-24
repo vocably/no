@@ -1,1 +1,3 @@
-["ihana","suloinen","nerokas"]
+ihana
+suloinen
+nerokas

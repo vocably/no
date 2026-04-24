@@ -1,1 +1,2 @@
-["mai girma","cikakke"]
+mai girma
+cikakke

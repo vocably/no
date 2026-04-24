@@ -1,1 +1,3 @@
-["fersomme","negearje","misrinne"]
+fersomme
+negearje
+misrinne

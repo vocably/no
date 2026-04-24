@@ -1,1 +1,2 @@
-["elegendő","megfelelő"]
+elegendő
+megfelelő

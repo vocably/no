@@ -1,1 +1,2 @@
-["cago","qasab"]
+cago
+qasab

@@ -1,1 +1,3 @@
-["znateľne","badateľne","nápadne"]
+znateľne
+badateľne
+nápadne

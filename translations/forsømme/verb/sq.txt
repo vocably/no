@@ -1,1 +1,3 @@
-["lë pas dore","neglijo","humbas"]
+lë pas dore
+neglijo
+humbas

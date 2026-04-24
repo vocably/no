@@ -1,1 +1,2 @@
-["overtale","bearbeide"]
+overtale
+bearbeide

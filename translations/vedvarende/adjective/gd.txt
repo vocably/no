@@ -1,1 +1,2 @@
-["maireannach","leantainneach"]
+maireannach
+leantainneach

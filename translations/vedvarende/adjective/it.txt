@@ -1,1 +1,2 @@
-["continuo","ininterrotto"]
+continuo
+ininterrotto

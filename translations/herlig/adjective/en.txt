@@ -1,1 +1,3 @@
-["delightful","lovely","splendid"]
+delightful
+lovely
+splendid

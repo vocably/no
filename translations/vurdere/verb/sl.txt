@@ -1,1 +1,2 @@
-["oceniti","presoditi"]
+oceniti
+presoditi

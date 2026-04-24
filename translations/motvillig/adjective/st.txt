@@ -1,1 +1,2 @@
-["ka ho honyenyane","ka boikemelo"]
+ka ho honyenyane
+ka boikemelo

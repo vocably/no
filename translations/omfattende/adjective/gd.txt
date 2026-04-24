@@ -1,1 +1,2 @@
-["farsaing","domhain"]
+farsaing
+domhain

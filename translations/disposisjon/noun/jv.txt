@@ -1,1 +1,4 @@
-["rencana","hak","kahanan","sipat"]
+rencana
+hak
+kahanan
+sipat

@@ -1,1 +1,3 @@
-["aidich","gabh ri","thoir spèis do"]
+aidich
+gabh ri
+thoir spèis do

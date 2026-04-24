@@ -1,1 +1,3 @@
-["marry","dedicate","consecrate"]
+marry
+dedicate
+consecrate

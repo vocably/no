@@ -1,1 +1,3 @@
-["marità","spusà","dedicà"]
+marità
+spusà
+dedicà

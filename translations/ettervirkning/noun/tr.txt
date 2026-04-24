@@ -1,1 +1,2 @@
-["ardıl etki","yan etki"]
+ardıl etki
+yan etki

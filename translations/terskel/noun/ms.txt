@@ -1,1 +1,2 @@
-["ambang","sempadan"]
+ambang
+sempadan

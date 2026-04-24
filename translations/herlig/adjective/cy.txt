@@ -1,1 +1,3 @@
-["hyfryd","bendigedig","ardderchog"]
+hyfryd
+bendigedig
+ardderchog

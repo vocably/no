@@ -1,1 +1,2 @@
-["voorzichtig","terughoudend"]
+voorzichtig
+terughoudend

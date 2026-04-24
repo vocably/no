@@ -1,1 +1,4 @@
-["dongosolo","kukonzekera","ufulu","mphamvu"]
+dongosolo
+kukonzekera
+ufulu
+mphamvu

@@ -1,1 +1,2 @@
-["extenso","amplo"]
+extenso
+amplo

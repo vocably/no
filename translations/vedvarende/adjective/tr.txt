@@ -1,1 +1,2 @@
-["sürekli","kesintisiz"]
+sürekli
+kesintisiz

@@ -1,1 +1,4 @@
-["pelan","susun atur","hak","kecenderungan"]
+pelan
+susun atur
+hak
+kecenderungan

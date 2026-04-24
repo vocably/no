@@ -1,1 +1,2 @@
-["étendu","complet"]
+étendu
+complet

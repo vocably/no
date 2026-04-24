@@ -1,1 +1,2 @@
-["isingaperi","chisingagumi"]
+isingaperi
+chisingagumi

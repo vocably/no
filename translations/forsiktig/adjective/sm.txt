@@ -1,1 +1,2 @@
-["faautauta","faatonutonu"]
+faautauta
+faatonutonu

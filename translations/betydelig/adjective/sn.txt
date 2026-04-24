@@ -1,1 +1,2 @@
-["hombe","chikuru"]
+hombe
+chikuru

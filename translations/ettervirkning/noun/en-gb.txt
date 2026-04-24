@@ -1,1 +1,2 @@
-["aftermath","after-effect"]
+aftermath
+after-effect

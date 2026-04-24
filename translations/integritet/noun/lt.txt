@@ -1,1 +1,2 @@
-["vientisumas","sąžiningumas"]
+vientisumas
+sąžiningumas

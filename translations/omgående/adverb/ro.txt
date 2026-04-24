@@ -1,1 +1,3 @@
-["imediat","fără întârziere","pe loc"]
+imediat
+fără întârziere
+pe loc

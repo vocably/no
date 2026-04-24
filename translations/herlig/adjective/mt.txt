@@ -1,1 +1,3 @@
-["delizzjuż","mill-aqwa","splendidu"]
+delizzjuż
+mill-aqwa
+splendidu

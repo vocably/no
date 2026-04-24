@@ -1,1 +1,2 @@
-["urmă","consecință"]
+urmă
+consecință

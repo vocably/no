@@ -1,1 +1,2 @@
-["mboko sithik","alon-alon"]
+mboko sithik
+alon-alon

@@ -1,1 +1,2 @@
-["obsežen","izčrpen"]
+obsežen
+izčrpen

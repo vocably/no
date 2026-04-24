@@ -1,1 +1,2 @@
-["bahalandyrmak","garamak"]
+bahalandyrmak
+garamak

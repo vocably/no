@@ -1,1 +1,3 @@
-["tính toàn vẹn","tính liêm chính","tính chính trực"]
+tính toàn vẹn
+tính liêm chính
+tính chính trực

@@ -1,1 +1,4 @@
-["moralo","tokelo","bokgoni","tšekamelo"]
+moralo
+tokelo
+bokgoni
+tšekamelo

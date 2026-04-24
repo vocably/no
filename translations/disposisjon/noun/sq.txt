@@ -1,1 +1,4 @@
-["dispozicion","plan","afat","prirje"]
+dispozicion
+plan
+afat
+prirje

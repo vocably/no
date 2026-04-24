@@ -1,1 +1,2 @@
-["tokonana","fihatahana"]
+tokonana
+fihatahana

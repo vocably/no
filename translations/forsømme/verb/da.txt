@@ -1,1 +1,3 @@
-["forsømme","undlade","misse"]
+forsømme
+undlade
+misse

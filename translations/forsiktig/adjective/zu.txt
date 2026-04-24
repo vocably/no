@@ -1,1 +1,2 @@
-["qaphela","ncengela"]
+qaphela
+ncengela

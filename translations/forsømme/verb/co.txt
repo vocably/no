@@ -1,1 +1,3 @@
-["trascurà","mancà","perde"]
+trascurà
+mancà
+perde

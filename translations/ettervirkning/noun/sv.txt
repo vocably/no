@@ -1,1 +1,2 @@
-["efterverkan","följd"]
+efterverkan
+följd

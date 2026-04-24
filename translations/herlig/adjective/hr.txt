@@ -1,1 +1,3 @@
-["divan","prekrasan","izvrstan"]
+divan
+prekrasan
+izvrstan

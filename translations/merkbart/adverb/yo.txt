@@ -1,1 +1,3 @@
-["ní fúnfún","ní kedere","ní títayọ"]
+ní fúnfún
+ní kedere
+ní títayọ

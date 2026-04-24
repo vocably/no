@@ -1,1 +1,2 @@
-["cukup","nyukupi"]
+cukup
+nyukupi

@@ -1,1 +1,4 @@
-["disposizione","pianta","predisposizione","attitudine"]
+disposizione
+pianta
+predisposizione
+attitudine

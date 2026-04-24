@@ -1,1 +1,2 @@
-["viðvarandi","stöðugur"]
+viðvarandi
+stöðugur

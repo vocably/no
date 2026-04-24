@@ -1,1 +1,3 @@
-["pühitsema","laulatama","abielu sõlmima"]
+pühitsema
+laulatama
+abielu sõlmima

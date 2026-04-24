@@ -1,1 +1,3 @@
-["whakahawea","tīweka","whakapeto"]
+whakahawea
+tīweka
+whakapeto

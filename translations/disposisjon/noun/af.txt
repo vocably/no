@@ -1,1 +1,4 @@
-["beskikking","aanleg","vatbaarheid","uitleg"]
+beskikking
+aanleg
+vatbaarheid
+uitleg

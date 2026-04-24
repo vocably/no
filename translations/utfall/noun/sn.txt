@@ -1,1 +1,3 @@
-["mhedzisiro","kurwisa","kushoropodza"]
+mhedzisiro
+kurwisa
+kushoropodza

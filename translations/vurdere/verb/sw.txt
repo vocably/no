@@ -1,1 +1,2 @@
-["kutathmini","kufikiria"]
+kutathmini
+kufikiria

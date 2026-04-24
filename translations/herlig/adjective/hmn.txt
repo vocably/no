@@ -1,1 +1,3 @@
-["zoo heev","kaj siab","ci ntsa iab"]
+zoo heev
+kaj siab
+ci ntsa iab

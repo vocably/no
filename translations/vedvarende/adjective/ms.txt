@@ -1,1 +1,2 @@
-["berterusan","kekal"]
+berterusan
+kekal

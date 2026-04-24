@@ -1,1 +1,2 @@
-["eşik","başlangıç"]
+eşik
+başlangıç

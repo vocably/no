@@ -1,1 +1,3 @@
-["integriteta","nedotakljivost","poštenost"]
+integriteta
+nedotakljivost
+poštenost

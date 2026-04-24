@@ -1,1 +1,2 @@
-["considérable","important"]
+considérable
+important

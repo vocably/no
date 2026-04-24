@@ -1,1 +1,3 @@
-["ketara","nyata","jelas"]
+ketara
+nyata
+jelas

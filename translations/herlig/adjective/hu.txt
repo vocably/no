@@ -1,1 +1,3 @@
-["gyönyörű","csodálatos","nagyszerű"]
+gyönyörű
+csodálatos
+nagyszerű

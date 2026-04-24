@@ -1,1 +1,2 @@
-["olukhulu","olubanzi"]
+olukhulu
+olubanzi

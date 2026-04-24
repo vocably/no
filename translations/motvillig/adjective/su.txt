@@ -1,1 +1,2 @@
-["embung","alimeungan"]
+embung
+alimeungan

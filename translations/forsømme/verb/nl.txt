@@ -1,1 +1,3 @@
-["verwaarlozen","nalaten","missen"]
+verwaarlozen
+nalaten
+missen

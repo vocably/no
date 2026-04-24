@@ -1,1 +1,2 @@
-["durevule","custante"]
+durevule
+custante

@@ -1,1 +1,3 @@
-["harika","nefis","mükemmel"]
+harika
+nefis
+mükemmel

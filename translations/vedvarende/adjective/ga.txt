@@ -1,1 +1,2 @@
-["leanúnach","marthanach"]
+leanúnach
+marthanach

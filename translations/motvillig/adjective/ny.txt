@@ -1,1 +1,2 @@
-["wokana","wotsutsa"]
+wokana
+wotsutsa

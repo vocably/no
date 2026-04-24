@@ -1,1 +1,2 @@
-["boholo","hlokahala"]
+boholo
+hlokahala

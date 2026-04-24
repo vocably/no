@@ -1,1 +1,2 @@
-["uly","möhüm"]
+uly
+möhüm

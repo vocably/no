@@ -1,1 +1,3 @@
-["trascurare","mancare","perdere"]
+trascurare
+mancare
+perdere

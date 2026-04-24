@@ -1,1 +1,3 @@
-["direkt","onverzüglech","bal"]
+direkt
+onverzüglech
+bal

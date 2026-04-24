@@ -1,1 +1,3 @@
-["traskura","tinsa","titlef"]
+traskura
+tinsa
+titlef

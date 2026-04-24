@@ -1,1 +1,2 @@
-["handi","nabarmen"]
+handi
+nabarmen

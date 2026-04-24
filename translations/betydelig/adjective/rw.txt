@@ -1,1 +1,2 @@
-["nini","ingenzi"]
+nini
+ingenzi

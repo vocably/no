@@ -1,1 +1,3 @@
-["zřetelně","nápadně","znatelně"]
+zřetelně
+nápadně
+znatelně

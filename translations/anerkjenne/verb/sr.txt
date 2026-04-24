@@ -1,1 +1,3 @@
-["priznati","prepoznati","uvažiti"]
+priznati
+prepoznati
+uvažiti

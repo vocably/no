@@ -1,1 +1,4 @@
-["plan","dispozisyon","aranjman","aptitid"]
+plan
+dispozisyon
+aranjman
+aptitid

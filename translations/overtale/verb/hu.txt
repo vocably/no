@@ -1,1 +1,2 @@
-["rábeszél","meggyőz"]
+rábeszél
+meggyőz

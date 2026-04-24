@@ -1,1 +1,3 @@
-["integritet","ukrænkelighed","helhed"]
+integritet
+ukrænkelighed
+helhed

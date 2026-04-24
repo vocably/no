@@ -1,1 +1,3 @@
-["mahagaga","tsara","kanto"]
+mahagaga
+tsara
+kanto

@@ -1,1 +1,3 @@
-["zvinofadza","zvakanaka","zvinoshamisa"]
+zvinofadza
+zvakanaka
+zvinoshamisa

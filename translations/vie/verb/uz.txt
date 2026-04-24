@@ -1,1 +1,3 @@
-["turmush qurmoq","bagʻishlamoq","muqaddas qilmoq"]
+turmush qurmoq
+bagʻishlamoq
+muqaddas qilmoq

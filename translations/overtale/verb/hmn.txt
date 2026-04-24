@@ -1,1 +1,2 @@
-["yaus","nqos lus"]
+yaus
+nqos lus

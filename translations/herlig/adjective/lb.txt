@@ -1,1 +1,3 @@
-["herrlich","wonnerschéin","exzellent"]
+herrlich
+wonnerschéin
+exzellent

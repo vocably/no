@@ -1,1 +1,3 @@
-["baglamak","jekelemek","pajalamak"]
+baglamak
+jekelemek
+pajalamak

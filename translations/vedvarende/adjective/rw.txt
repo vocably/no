@@ -1,1 +1,2 @@
-["Ihoraho","Idahwema"]
+Ihoraho
+Idahwema

@@ -1,1 +1,3 @@
-["venčati se","posvetiti","osveštati"]
+venčati se
+posvetiti
+osveštati

@@ -1,1 +1,3 @@
-["bèl","ekselan","magnifik"]
+bèl
+ekselan
+magnifik

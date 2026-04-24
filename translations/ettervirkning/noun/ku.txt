@@ -1,1 +1,2 @@
-["paşeroj","encam"]
+paşeroj
+encam

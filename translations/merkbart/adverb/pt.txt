@@ -1,1 +1,3 @@
-["notavelmente","perceptivelmente","visivelmente"]
+notavelmente
+perceptivelmente
+visivelmente

@@ -1,1 +1,3 @@
-["kureka","kwirengagiza","gutakaza"]
+kureka
+kwirengagiza
+gutakaza

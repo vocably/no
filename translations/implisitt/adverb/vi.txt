@@ -1,1 +1,2 @@
-["ngầm","mặc nhiên"]
+ngầm
+mặc nhiên

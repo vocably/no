@@ -1,1 +1,4 @@
-["cautu","prudenti","esitante","ritrosu"]
+cautu
+prudenti
+esitante
+ritrosu

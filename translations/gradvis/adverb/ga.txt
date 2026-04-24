@@ -1,1 +1,2 @@
-["de réir a chéile","go céim ar chéim"]
+de réir a chéile
+go céim ar chéim

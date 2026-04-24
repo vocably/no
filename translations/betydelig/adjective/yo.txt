@@ -1,1 +1,2 @@
-["tóbi","lágbára"]
+tóbi
+lágbára

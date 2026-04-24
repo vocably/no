@@ -1,1 +1,3 @@
-["tafarlaust","án tafar","strax"]
+tafarlaust
+án tafar
+strax

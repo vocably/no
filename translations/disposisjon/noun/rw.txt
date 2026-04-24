@@ -1,1 +1,4 @@
-["igenamigambi","ubushobozi","uburyo","impano"]
+igenamigambi
+ubushobozi
+uburyo
+impano

@@ -1,1 +1,2 @@
-["chachikulu","chofunika"]
+chachikulu
+chofunika

@@ -1,1 +1,2 @@
-["bertahap","sedikit demi sedikit"]
+bertahap
+sedikit demi sedikit

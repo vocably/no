@@ -1,1 +1,3 @@
-["mālama ʻole","hāʻule","nalowale"]
+mālama ʻole
+hāʻule
+nalowale

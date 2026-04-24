@@ -1,1 +1,3 @@
-["botšepehi","ho hloka sekoli","bothokwa"]
+botšepehi
+ho hloka sekoli
+bothokwa

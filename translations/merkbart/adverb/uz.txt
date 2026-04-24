@@ -1,1 +1,3 @@
-["sezilarli","aniq","ravshan"]
+sezilarli
+aniq
+ravshan

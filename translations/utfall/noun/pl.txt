@@ -1,1 +1,3 @@
-["wynik","rezultat","atak"]
+wynik
+rezultat
+atak

@@ -1,1 +1,2 @@
-["tsy voalaza mivantana","an-kolaka"]
+tsy voalaza mivantana
+an-kolaka

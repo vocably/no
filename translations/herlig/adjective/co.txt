@@ -1,1 +1,3 @@
-["deliziosu","magnificu","eccellente"]
+deliziosu
+magnificu
+eccellente

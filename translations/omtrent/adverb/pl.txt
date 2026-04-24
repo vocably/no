@@ -1,1 +1,2 @@
-["prawie","około"]
+prawie
+około

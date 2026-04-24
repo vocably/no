@@ -1,1 +1,3 @@
-["merkber","dúdlik","opfallend"]
+merkber
+dúdlik
+opfallend

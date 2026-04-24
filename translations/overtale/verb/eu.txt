@@ -1,1 +1,2 @@
-["konbentzitu","persuaditu"]
+konbentzitu
+persuaditu

@@ -1,1 +1,2 @@
-["evalye","konsidere"]
+evalye
+konsidere

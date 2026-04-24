@@ -1,1 +1,2 @@
-["vlerësoj","konsideroj"]
+vlerësoj
+konsideroj

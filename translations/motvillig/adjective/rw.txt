@@ -1,1 +1,2 @@
-["atabishaka","ku gahato"]
+atabishaka
+ku gahato

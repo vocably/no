@@ -1,1 +1,3 @@
-["aladun","iyanu","didara"]
+aladun
+iyanu
+didara

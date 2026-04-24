@@ -1,1 +1,3 @@
-["geuwat","enggal","harita keneh"]
+geuwat
+enggal
+harita keneh

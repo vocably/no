@@ -1,1 +1,2 @@
-["zvisina kutaurwa pachena","zviri pachena"]
+zvisina kutaurwa pachena
+zviri pachena

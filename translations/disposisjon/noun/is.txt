@@ -1,1 +1,4 @@
-["skipulag","ráðstöfun","viðkvæmni","hæfileiki"]
+skipulag
+ráðstöfun
+viðkvæmni
+hæfileiki

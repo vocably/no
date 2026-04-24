@@ -1,1 +1,2 @@
-["skoraj","približno"]
+skoraj
+približno

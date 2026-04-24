@@ -1,1 +1,3 @@
-["nabarmen","agerian","begien bistan"]
+nabarmen
+agerian
+begien bistan

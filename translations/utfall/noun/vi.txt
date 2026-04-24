@@ -1,1 +1,3 @@
-["kết quả","cuộc tấn công","lời chỉ trích"]
+kết quả
+cuộc tấn công
+lời chỉ trích

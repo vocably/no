@@ -1,1 +1,3 @@
-["bishimishije","cyiza","gitangaje"]
+bishimishije
+cyiza
+gitangaje

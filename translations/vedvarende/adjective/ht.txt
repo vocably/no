@@ -1,1 +1,2 @@
-["kontini","ki dire lontan"]
+kontini
+ki dire lontan

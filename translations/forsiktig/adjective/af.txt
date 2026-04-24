@@ -1,1 +1,2 @@
-["versigtig","terughoudend"]
+versigtig
+terughoudend

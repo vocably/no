@@ -1,1 +1,2 @@
-["rezistans","fòs"]
+rezistans
+fòs

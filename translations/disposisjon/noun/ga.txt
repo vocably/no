@@ -1,1 +1,4 @@
-["leagan amach","ullmhúchán","cur chuige","claonadh"]
+leagan amach
+ullmhúchán
+cur chuige
+claonadh

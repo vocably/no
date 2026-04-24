@@ -1,1 +1,3 @@
-["viga","helga","ägna"]
+viga
+helga
+ägna

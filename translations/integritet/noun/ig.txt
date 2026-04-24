@@ -1,1 +1,3 @@
-["iguzosi ike n'eziokwu","eziokwu","ndu ziri ezi"]
+iguzosi ike n'eziokwu
+eziokwu
+ndu ziri ezi

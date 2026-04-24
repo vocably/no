@@ -1,1 +1,2 @@
-["ati-ati","ngarandeg"]
+ati-ati
+ngarandeg

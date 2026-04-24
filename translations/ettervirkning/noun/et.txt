@@ -1,1 +1,2 @@
-["järelmõju","tagajärg"]
+järelmõju
+tagajärg

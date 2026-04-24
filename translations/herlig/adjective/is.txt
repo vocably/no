@@ -1,1 +1,3 @@
-["yndislegur","dásamlegur","frábær"]
+yndislegur
+dásamlegur
+frábær

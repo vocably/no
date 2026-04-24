@@ -1,1 +1,3 @@
-["försumma","missa","underlåta"]
+försumma
+missa
+underlåta

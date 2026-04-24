@@ -1,1 +1,3 @@
-["dayac","ka gaabiso","seegin"]
+dayac
+ka gaabiso
+seegin

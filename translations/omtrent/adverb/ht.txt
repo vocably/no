@@ -1,1 +1,2 @@
-["prèske","anviwon"]
+prèske
+anviwon

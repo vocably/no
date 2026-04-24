@@ -1,1 +1,3 @@
-["poświęcić","zasvätiť","venovať"]
+poświęcić
+zasvätiť
+venovať

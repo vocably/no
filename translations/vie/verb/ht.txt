@@ -1,1 +1,3 @@
-["marye","konsakre","sanktif ye"]
+marye
+konsakre
+sanktif ye

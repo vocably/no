@@ -1,1 +1,4 @@
-["Dispositioun","Plang","Uerdnung","Verfügung"]
+Dispositioun
+Plang
+Uerdnung
+Verfügung

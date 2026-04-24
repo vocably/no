@@ -1,1 +1,3 @@
-["iznākums","rezultāts","uzbrukums"]
+iznākums
+rezultāts
+uzbrukums

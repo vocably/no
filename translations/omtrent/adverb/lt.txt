@@ -1,1 +1,2 @@
-["beveik","apytiksliai"]
+beveik
+apytiksliai

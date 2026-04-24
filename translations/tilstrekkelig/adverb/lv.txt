@@ -1,1 +1,2 @@
-["pietiekami","samērīgi"]
+pietiekami
+samērīgi

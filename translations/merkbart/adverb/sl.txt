@@ -1,1 +1,3 @@
-["opazno","občutno","izrazito"]
+opazno
+občutno
+izrazito

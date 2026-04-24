@@ -1,1 +1,2 @@
-["atsparumas","pasipriešinimas"]
+atsparumas
+pasipriešinimas

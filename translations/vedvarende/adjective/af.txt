@@ -1,1 +1,2 @@
-["voortdurend","aanhoudend"]
+voortdurend
+aanhoudend

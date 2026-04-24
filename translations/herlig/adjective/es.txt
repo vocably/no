@@ -1,1 +1,3 @@
-["delicioso","espléndido","excelente"]
+delicioso
+espléndido
+excelente

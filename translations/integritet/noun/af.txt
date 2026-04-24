@@ -1,1 +1,3 @@
-["integriteit","onkreukbaarheid","regskapenheid"]
+integriteit
+onkreukbaarheid
+regskapenheid

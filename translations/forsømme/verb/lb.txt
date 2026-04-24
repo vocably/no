@@ -1,1 +1,3 @@
-["vernoléissegen","verpassen","ausloossen"]
+vernoléissegen
+verpassen
+ausloossen

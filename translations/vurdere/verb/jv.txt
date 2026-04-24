@@ -1,1 +1,2 @@
-["ngira-ngira","nimbang"]
+ngira-ngira
+nimbang

@@ -1,1 +1,3 @@
-["ngakoni","nampa","ngajeni"]
+ngakoni
+nampa
+ngajeni

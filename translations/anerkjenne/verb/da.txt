@@ -1,1 +1,3 @@
-["anerkende","erkende","vedkende"]
+anerkende
+erkende
+vedkende

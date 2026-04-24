@@ -1,1 +1,3 @@
-["märkbart","tydligt","påfallande"]
+märkbart
+tydligt
+påfallande

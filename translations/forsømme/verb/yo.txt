@@ -1,1 +1,3 @@
-["fà ábámi","fàgùn","gbàgbé"]
+fà ábámi
+fàgùn
+gbàgbé

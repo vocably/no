@@ -1,1 +1,2 @@
-["hampir","kira-kira"]
+hampir
+kira-kira

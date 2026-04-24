@@ -1,1 +1,3 @@
-["resultat","utfall","angrepp"]
+resultat
+utfall
+angrepp

@@ -1,1 +1,2 @@
-["téměř","skoro"]
+téměř
+skoro

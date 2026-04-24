@@ -1,1 +1,2 @@
-["mai da hujja","ba da hujja"]
+mai da hujja
+ba da hujja

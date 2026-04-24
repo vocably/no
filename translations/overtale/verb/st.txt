@@ -1,1 +1,2 @@
-["ho buella","ho susumetsa"]
+ho buella
+ho susumetsa

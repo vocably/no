@@ -1,1 +1,3 @@
-["rezultatas","išpuolis","kritika"]
+rezultatas
+išpuolis
+kritika

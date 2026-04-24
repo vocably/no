@@ -1,1 +1,2 @@
-["nagovarati","uvjeravati"]
+nagovarati
+uvjeravati

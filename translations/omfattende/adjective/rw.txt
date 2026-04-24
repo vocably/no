@@ -1,1 +1,2 @@
-["byagutse","birambuye"]
+byagutse
+birambuye

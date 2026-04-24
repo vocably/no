@@ -1,1 +1,2 @@
-["preskaŭ","ĉirkaŭ"]
+preskaŭ
+ĉirkaŭ

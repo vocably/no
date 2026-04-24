@@ -1,1 +1,3 @@
-["hopena","puka","hoouka"]
+hopena
+puka
+hoouka

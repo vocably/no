@@ -1,1 +1,2 @@
-["patuloy","tuloy-tuloy"]
+patuloy
+tuloy-tuloy

@@ -1,1 +1,2 @@
-["övertala","övertyga"]
+övertala
+övertyga

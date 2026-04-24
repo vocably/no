@@ -1,1 +1,2 @@
-["daya tahan","rintangan"]
+daya tahan
+rintangan

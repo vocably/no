@@ -1,1 +1,2 @@
-["omfattande","grundlig"]
+omfattande
+grundlig

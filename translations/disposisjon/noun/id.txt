@@ -1,1 +1,4 @@
-["rencana","susunan","hak","kecenderungan"]
+rencana
+susunan
+hak
+kecenderungan

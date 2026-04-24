@@ -1,1 +1,2 @@
-["lasting","continuous"]
+lasting
+continuous

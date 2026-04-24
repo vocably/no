@@ -1,1 +1,3 @@
-["rekareka","whakareka","ahuareka"]
+rekareka
+whakareka
+ahuareka

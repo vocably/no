@@ -1,1 +1,3 @@
-["mengakui","menghargai","menerima"]
+mengakui
+menghargai
+menerima

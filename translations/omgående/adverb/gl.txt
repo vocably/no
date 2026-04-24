@@ -1,1 +1,3 @@
-["inmediatamente","ao instante","axiña"]
+inmediatamente
+ao instante
+axiña

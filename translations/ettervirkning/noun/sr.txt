@@ -1,1 +1,2 @@
-["posledica","naknadna pojava"]
+posledica
+naknadna pojava

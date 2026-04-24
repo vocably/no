@@ -1,1 +1,2 @@
-["balukar","pangaruh"]
+balukar
+pangaruh

@@ -1,1 +1,3 @@
-["nutevule","rimarchevule","sensibile"]
+nutevule
+rimarchevule
+sensibile

@@ -1,1 +1,2 @@
-["langgeng","terus-terusan"]
+langgeng
+terus-terusan

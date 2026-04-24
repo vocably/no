@@ -1,1 +1,3 @@
-["primetno","osetno","vidno"]
+primetno
+osetno
+vidno

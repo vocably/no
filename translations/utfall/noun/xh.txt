@@ -1,1 +1,3 @@
-["isiphumo","uhlaselo","ingxelo"]
+isiphumo
+uhlaselo
+ingxelo

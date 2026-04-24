@@ -1,1 +1,4 @@
-["sərəncam","plan","istifadə hüququ","meyillilik"]
+sərəncam
+plan
+istifadə hüququ
+meyillilik

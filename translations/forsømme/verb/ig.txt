@@ -1,1 +1,3 @@
-["ileghara anya","imebi iwu","ịtụfu ohere"]
+ileghara anya
+imebi iwu
+ịtụfu ohere

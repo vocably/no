@@ -1,1 +1,2 @@
-["doimiy","uzluksiz"]
+doimiy
+uzluksiz

@@ -1,1 +1,2 @@
-["maharitra","mitohy"]
+maharitra
+mitohy

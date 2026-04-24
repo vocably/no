@@ -1,1 +1,2 @@
-["értékel","megfontol"]
+értékel
+megfontol

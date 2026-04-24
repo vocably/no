@@ -1,1 +1,3 @@
-["uitkoms","aanval","uitval"]
+uitkoms
+aanval
+uitval

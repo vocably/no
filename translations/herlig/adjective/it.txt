@@ -1,1 +1,3 @@
-["delizioso","squisito","meraviglioso"]
+delizioso
+squisito
+meraviglioso

@@ -1,1 +1,2 @@
-["đánh giá","xem xét"]
+đánh giá
+xem xét

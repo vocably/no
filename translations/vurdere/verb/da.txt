@@ -1,1 +1,2 @@
-["vurdere","overveje"]
+vurdere
+overveje

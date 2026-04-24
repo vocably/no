@@ -1,1 +1,2 @@
-["qancin","kasbasho"]
+qancin
+kasbasho

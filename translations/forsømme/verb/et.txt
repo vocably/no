@@ -1,1 +1,3 @@
-["hooletusse jätma","mitte täitma","mööda laskma"]
+hooletusse jätma
+mitte täitma
+mööda laskma

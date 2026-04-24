@@ -1,1 +1,3 @@
-["fark edilir derecede","göze çarpar şekilde","belirgin bir şekilde"]
+fark edilir derecede
+göze çarpar şekilde
+belirgin bir şekilde

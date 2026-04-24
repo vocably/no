@@ -1,1 +1,3 @@
-["imediatamente","urgentemente","sem demora"]
+imediatamente
+urgentemente
+sem demora

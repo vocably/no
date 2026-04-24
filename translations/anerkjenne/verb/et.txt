@@ -1,1 +1,3 @@
-["tunnustama","aktsepteerima","möönma"]
+tunnustama
+aktsepteerima
+möönma

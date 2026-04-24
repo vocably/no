@@ -1,1 +1,2 @@
-["dauerhaft","andauernd"]
+dauerhaft
+andauernd

@@ -1,1 +1,3 @@
-["negligenciar","deixar de fazer","perder"]
+negligenciar
+deixar de fazer
+perder

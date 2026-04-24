@@ -1,1 +1,3 @@
-["klè","aparaman","evidamman"]
+klè
+aparaman
+evidamman

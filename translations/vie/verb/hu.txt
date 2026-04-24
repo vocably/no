@@ -1,1 +1,3 @@
-["szentel","feláldoz","felszentel"]
+szentel
+feláldoz
+felszentel

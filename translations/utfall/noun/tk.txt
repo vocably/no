@@ -1,1 +1,3 @@
-["netije","hüjüm","tankyt"]
+netije
+hüjüm
+tankyt

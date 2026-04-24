@@ -1,1 +1,2 @@
-["konsekans","sekans"]
+konsekans
+sekans

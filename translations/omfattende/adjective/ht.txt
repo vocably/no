@@ -1,1 +1,2 @@
-["anpil","detaye"]
+anpil
+detaye

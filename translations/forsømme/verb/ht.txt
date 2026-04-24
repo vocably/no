@@ -1,1 +1,3 @@
-["neglije","pa okipe","rate"]
+neglije
+pa okipe
+rate

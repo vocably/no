@@ -1,1 +1,3 @@
-["integridade","autonomía","honestidade"]
+integridade
+autonomía
+honestidade

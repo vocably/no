@@ -1,1 +1,4 @@
-["disposição","plano","esquema","tendência"]
+disposição
+plano
+esquema
+tendência

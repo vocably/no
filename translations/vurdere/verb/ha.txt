@@ -1,1 +1,2 @@
-["kimanta","yi la'akari"]
+kimanta
+yi la'akari

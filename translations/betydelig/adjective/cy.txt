@@ -1,1 +1,2 @@
-["sylweddol","arwyddocaol"]
+sylweddol
+arwyddocaol

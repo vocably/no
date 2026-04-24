@@ -1,1 +1,3 @@
-["sonuç","saldırı","çıkışma"]
+sonuç
+saldırı
+çıkışma

@@ -1,1 +1,3 @@
-["yndieling","beskikking","oanlis"]
+yndieling
+beskikking
+oanlis

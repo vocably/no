@@ -1,1 +1,3 @@
-["deliciós","meravellós","excel·lent"]
+deliciós
+meravellós
+excel·lent

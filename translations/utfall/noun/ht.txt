@@ -1,1 +1,3 @@
-["rezilta","konklizyon","atak"]
+rezilta
+konklizyon
+atak

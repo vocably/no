@@ -1,1 +1,4 @@
-["rarancang","rencana","hak","kamampuh"]
+rarancang
+rencana
+hak
+kamampuh

@@ -1,1 +1,3 @@
-["casar-se","dedicar","consagrar"]
+casar-se
+dedicar
+consagrar

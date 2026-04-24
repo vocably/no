@@ -1,1 +1,3 @@
-["tamu","nzuri","tukufu"]
+tamu
+nzuri
+tukufu

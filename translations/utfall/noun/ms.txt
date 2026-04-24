@@ -1,1 +1,3 @@
-["hasil","serangan","kritikan"]
+hasil
+serangan
+kritikan

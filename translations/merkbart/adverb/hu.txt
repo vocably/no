@@ -1,1 +1,3 @@
-["észrevehetően","érezhetően","szembetűnően"]
+észrevehetően
+érezhetően
+szembetűnően

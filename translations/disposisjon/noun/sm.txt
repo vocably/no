@@ -1,1 +1,4 @@
-["fuafuaga","faatulagaga","pule","mafai"]
+fuafuaga
+faatulagaga
+pule
+mafai

@@ -1,1 +1,3 @@
-["mengabaikan","melalaikan","kehilangan"]
+mengabaikan
+melalaikan
+kehilangan

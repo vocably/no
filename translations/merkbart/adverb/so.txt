@@ -1,1 +1,3 @@
-["si muuqata","si la dareemi karo","si cad"]
+si muuqata
+si la dareemi karo
+si cad

@@ -1,1 +1,3 @@
-["résultat","issue","attaque"]
+résultat
+issue
+attaque

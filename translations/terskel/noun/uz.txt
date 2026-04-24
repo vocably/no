@@ -1,1 +1,2 @@
-["eshik oldidagi bo'sag'a","boshlang'ich nuqta"]
+eshik oldidagi bo'sag'a
+boshlang'ich nuqta

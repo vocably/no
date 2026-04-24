@@ -1,1 +1,2 @@
-["bua-dh","droch-bhuaidh"]
+bua-dh
+droch-bhuaidh

@@ -1,1 +1,2 @@
-["khoảng","gần"]
+khoảng
+gần

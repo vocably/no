@@ -1,1 +1,3 @@
-["kukwatira","kupereka nsembe","kuyeretsa"]
+kukwatira
+kupereka nsembe
+kuyeretsa

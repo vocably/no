@@ -1,1 +1,2 @@
-["tədricən","get-gedə"]
+tədricən
+get-gedə

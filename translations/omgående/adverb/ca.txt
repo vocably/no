@@ -1,1 +1,3 @@
-["immediatament","tot seguit","a l'instant"]
+immediatament
+tot seguit
+a l'instant

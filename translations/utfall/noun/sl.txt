@@ -1,1 +1,3 @@
-["izid","rezultat","izpad"]
+izid
+rezultat
+izpad

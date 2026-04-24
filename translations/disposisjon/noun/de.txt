@@ -1,1 +1,4 @@
-["die Disposition","der Plan","die Anfälligkeit","die Anlage"]
+die Disposition
+der Plan
+die Anfälligkeit
+die Anlage

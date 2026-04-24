@@ -1,1 +1,2 @@
-["daya tahan","resistansi"]
+daya tahan
+resistansi

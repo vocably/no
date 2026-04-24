@@ -1,1 +1,3 @@
-["Resultat","Iwwerfall","Ausfall"]
+Resultat
+Iwwerfall
+Ausfall

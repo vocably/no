@@ -1,1 +1,2 @@
-["hastich","hast"]
+hastich
+hast

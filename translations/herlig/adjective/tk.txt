@@ -1,1 +1,3 @@
-["şahsy","ajaýyp","kaşaň"]
+şahsy
+ajaýyp
+kaşaň

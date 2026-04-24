@@ -1,1 +1,2 @@
-["trajen","neprekinjen"]
+trajen
+neprekinjen

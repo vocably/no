@@ -1,1 +1,3 @@
-["azonnal","haladéktalanul","rögtön"]
+azonnal
+haladéktalanul
+rögtön

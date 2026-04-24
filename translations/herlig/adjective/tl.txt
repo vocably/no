@@ -1,1 +1,3 @@
-["kahanga-hanga","napakasarap","marilag"]
+kahanga-hanga
+napakasarap
+marilag

@@ -1,1 +1,3 @@
-["uznat","přiznat","ocenit"]
+uznat
+přiznat
+ocenit

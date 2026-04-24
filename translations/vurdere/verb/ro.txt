@@ -1,1 +1,2 @@
-["a evalua","a considera"]
+a evalua
+a considera

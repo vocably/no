@@ -1,1 +1,3 @@
-["a bayyane","sananne","filako"]
+a bayyane
+sananne
+filako

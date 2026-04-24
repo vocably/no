@@ -1,1 +1,3 @@
-["nyala","inehela","halaletsa"]
+nyala
+inehela
+halaletsa

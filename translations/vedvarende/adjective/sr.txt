@@ -1,1 +1,2 @@
-["trajan","kontinuiran"]
+trajan
+kontinuiran

@@ -1,1 +1,2 @@
-["ngabenerkeun","ngabéla"]
+ngabenerkeun
+ngabéla

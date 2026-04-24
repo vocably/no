@@ -1,1 +1,3 @@
-["laiminlyödä","jättää väliin","menettää"]
+laiminlyödä
+jättää väliin
+menettää

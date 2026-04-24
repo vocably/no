@@ -1,1 +1,3 @@
-["tulos","hyökkäys","purkaus"]
+tulos
+hyökkäys
+purkaus

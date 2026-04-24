@@ -1,1 +1,2 @@
-["phara","phela"]
+phara
+phela

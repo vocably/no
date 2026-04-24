@@ -1,1 +1,3 @@
-["sephetho","tlhaselo","nyatso"]
+sephetho
+tlhaselo
+nyatso
