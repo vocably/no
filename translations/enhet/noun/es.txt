@@ -1,0 +1,4 @@
+unidad
+componente
+elemento
+entidad

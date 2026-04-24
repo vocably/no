@@ -1,0 +1,3 @@
+check
+control
+verify

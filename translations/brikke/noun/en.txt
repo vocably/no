@@ -1,0 +1,4 @@
+piece
+chip
+pawn
+component

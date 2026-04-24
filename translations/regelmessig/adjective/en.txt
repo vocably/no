@@ -1,0 +1,3 @@
+regular
+periodic
+systematic
