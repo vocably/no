@@ -1,0 +1,4 @@
+set
+place
+pose
+put

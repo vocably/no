@@ -1,0 +1,4 @@
+vote
+tune
+be correct
+stop

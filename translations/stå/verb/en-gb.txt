@@ -1,0 +1,4 @@
+stand
+be
+be written
+be printed

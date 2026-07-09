@@ -1,0 +1,2 @@
+from home
+away from home

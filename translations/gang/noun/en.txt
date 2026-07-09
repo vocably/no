@@ -1,0 +1,4 @@
+time
+corridor
+walk
+gang

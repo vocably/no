@@ -1,0 +1,3 @@
+ground
+hill
+baking tin

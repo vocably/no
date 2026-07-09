@@ -1,0 +1,3 @@
+larder
+food bowl
+breadbasket
